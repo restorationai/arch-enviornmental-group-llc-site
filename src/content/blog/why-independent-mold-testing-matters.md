@@ -16,6 +16,7 @@ faq: [{"question": "Can a remediator legally perform their own clearance testing
 published_at: "2026-08-22"
 services: ["mold-inspection-testing", "clearance-testing"]
 rendered: true
+author: "Mike Luna Lopez"
 ---
 If someone offers to test your home for mold *and* remove it for one bundled price, walk away. The conflict of interest is baked into the business model: a remediator who also writes your test results has a financial incentive to find a problem, and an equally strong incentive to declare it solved when the job is done. Keeping those two roles separate is not a bureaucratic formality. It is the only structural protection a homeowner has against paying for work that was never needed, or paying for work that was done poorly and never caught.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How much does mold testing cost in Kingsburg, CA?", "answer"
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Mike Luna Lopez"
 ---
 **TL;DR:** Mold testing in Kingsburg involves a licensed inspector collecting air samples, surface samples, or both from suspect areas of your home. Samples go to an accredited third-party laboratory, and results typically come back within 24-72 hours. Because Kingsburg's older housing stock and Central Valley humidity swings create real conditions for mold growth, an independent test gives you documented evidence before you make a health or financial decision.
 

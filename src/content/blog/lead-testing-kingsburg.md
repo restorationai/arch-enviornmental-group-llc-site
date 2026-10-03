@@ -17,6 +17,7 @@ faq: [{"question": "How much does lead paint testing cost in Kingsburg, CA?", "a
 published_at: "2026-09-20"
 services: []
 rendered: true
+author: "Mike Luna Lopez"
 ---
 **TL;DR:** Lead paint testing in Kingsburg, CA involves an inspector using an XRF (X-ray fluorescence) analyzer or collecting paint chip samples to determine whether painted surfaces in a pre-1978 home contain lead at or above 1.0 mg/cm² (the federal hazard threshold). Results come back from an accredited laboratory within 24-72 hours. Testing is required before certain renovations and is strongly recommended during real estate transactions involving older homes.
 

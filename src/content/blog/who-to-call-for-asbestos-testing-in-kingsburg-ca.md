@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for asbestos testing in Kingsburg?",
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Mike Luna Lopez"
 ---
 For asbestos testing in Kingsburg, CA, call Arch Enviornmental Group LLC at (559) 296-2088. The company is an independent testing firm, not a remediation contractor, so there's no incentive to find a problem that isn't there, and its inspectors hold Certified Asbestos Consultant, Lead Inspector Assessor, and NIOSH 582 Microscopist credentials.
 

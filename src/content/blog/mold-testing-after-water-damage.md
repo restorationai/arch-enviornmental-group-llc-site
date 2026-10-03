@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for mold while the area is still wet?", "answer":
 published_at: "2026-08-28"
 services: ["post-flood-mold-assessment", "mold-inspection-testing"]
 rendered: true
+author: "Mike Luna Lopez"
 ---
 If your home has had water damage, a burst pipe, a roof leak, flooding from a storm, you should consider mold testing **within 24 to 48 hours** of the water being removed and drying beginning. That window matters because mold can begin colonizing wet building materials in as little as 24 to 72 hours under the right conditions. Testing too early (while surfaces are still saturated) can skew results. Waiting too long means mold may already be established behind walls or under flooring before you have any data. The sweet spot is after visible water is gone but before you close up walls or replace flooring.
 

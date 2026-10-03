@@ -16,6 +16,7 @@ faq: [{"question": "How much does an asbestos test typically cost, and is it wor
 published_at: "2026-08-27"
 services: ["asbestos-testing"]
 rendered: true
+author: "Mike Luna Lopez"
 ---
 If your home or building was constructed before the mid-1980s and you're planning a renovation, you need an asbestos test before any demolition work begins, full stop. Asbestos-containing materials (ACMs) were used in hundreds of building products through the late 1970s, and many remained in use into the early 1980s. Disturbing them without knowing what you're dealing with can release microscopic fibers that lodge permanently in lung tissue. The test itself is straightforward and relatively inexpensive. Skipping it is not a shortcut, it's a liability that can halt your project, trigger regulatory fines, and create a genuine health hazard for everyone on-site.
 

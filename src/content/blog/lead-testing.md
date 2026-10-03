@@ -17,6 +17,7 @@ faq: [{"question": "Do I legally need lead testing before renovating an older ho
 published_at: "2026-09-30"
 services: []
 rendered: true
+author: "Mike Luna Lopez"
 ---
 **TL;DR:** Lead testing identifies lead-based paint, dust, or soil in homes built before 1978, the year the federal government banned residential lead paint. A certified lead inspector uses an XRF analyzer for instant paint readings, plus lab-analyzed dust wipe or soil samples to confirm hazards, usually in a single visit. Testing is required before certain renovations on older homes, recommended before buying one, and often needed to settle a landlord-tenant dispute. Results tell you whether abatement is needed and support compliance with [EPA's Renovation, Repair, and Painting Rule](https://www.epa.gov/lead).
 

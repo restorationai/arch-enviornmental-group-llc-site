@@ -18,6 +18,7 @@ faq: [{"question": "How long does it take to get mold test results back from a l
 published_at: "2026-09-03"
 services: ["mold-inspection-testing"]
 rendered: true
+author: "Mike Luna Lopez"
 ---
 Both methods test for mold, but they answer different questions, and using the wrong one can leave you with results that don't actually help you. **Air sampling** measures what you're breathing right now: the concentration and types of mold spores floating in a given space. **Surface sampling** identifies what's growing on a specific material, a wall, a ceiling tile, a duct flange. Most situations call for one or the other, not both. A few genuinely need both. The choice depends on what you already know, what you're trying to prove, and what decision you'll make with the results.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How much does asbestos testing cost in California?", "answer
 published_at: "2026-09-22"
 services: []
 rendered: true
+author: "Mike Luna Lopez"
 ---
 **TL;DR:** Asbestos testing in California typically costs $250 to $900 for a standard residential inspection with bulk material samples sent to an accredited laboratory. The price rises with the number of suspect materials sampled, the size of the property, and whether you need rush lab results. In the Central Valley, where older stucco ranch homes and mid-century farmhouses are common, a thorough pre-renovation survey often runs $400 to $700 for a single-family home.
 

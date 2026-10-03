@@ -18,6 +18,7 @@ faq: [{"question": "How long does an indoor air quality test take, and when do r
 published_at: "2026-09-02"
 services: ["indoor-air-quality-testing"]
 rendered: true
+author: "Mike Luna Lopez"
 ---
 Your indoor air can look perfectly clean and still be making you sick. Unlike a water stain on the ceiling or mold you can see on a wall, air quality problems are invisible, and the symptoms they cause are easy to blame on allergies, a bad night's sleep, or stress. The seven signs below are the ones most commonly tied to measurable air quality problems. For each one, there's a specific test that can confirm whether your air is the cause, so you're not guessing, and you're not spending money on remediation you may not need.
 

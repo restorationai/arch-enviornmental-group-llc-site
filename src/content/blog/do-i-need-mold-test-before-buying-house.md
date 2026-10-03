@@ -16,6 +16,7 @@ faq: [{"question": "Can my real estate agent or home inspector tell me if the ho
 published_at: "2026-08-10"
 services: ["mold-inspection-testing"]
 rendered: true
+author: "Mike Luna Lopez"
 ---
 Most home inspectors don't test for mold, they look for visible signs of moisture damage, but they won't swab a wall cavity or run an air sample. So if you're asking whether you need a separate mold test before closing, the short answer is: **not always, but sometimes absolutely yes.** The situation that makes it worth it is specific: there's evidence of past or present moisture, the seller's disclosures mention water intrusion, or the home has been vacant long enough for a slow leak to go unnoticed. If none of those apply, a standard inspection may be enough. Here's how to think through it.
 

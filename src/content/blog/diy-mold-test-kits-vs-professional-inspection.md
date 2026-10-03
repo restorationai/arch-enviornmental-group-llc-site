@@ -16,6 +16,7 @@ faq: [{"question": "Can a DIY mold test kit tell me if my home is safe to live i
 published_at: "2026-08-09"
 services: ["mold-inspection-testing"]
 rendered: true
+author: "Mike Luna Lopez"
 ---
 DIY mold test kits give you a number. A professional inspection tells you what that number means, where the mold is coming from, and whether the building is safe to occupy. If you're holding a petri dish from the hardware store and wondering what to do next, here's the honest breakdown: the kit may confirm mold spores are present (they almost always are, everywhere), but it cannot locate hidden colonies, identify the moisture source keeping them alive, or tell you whether what you're seeing is a cosmetic issue or a structural one. That distinction is what actually drives the remediation decision.
 

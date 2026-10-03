@@ -17,6 +17,7 @@ faq: [{"question": "How much does a mold inspection cost in California?", "answe
 published_at: "2026-09-14"
 services: ["mold-inspection-testing"]
 rendered: true
+author: "Mike Luna Lopez"
 ---
 **TL;DR:** A professional mold inspection in California's Central Valley typically costs $300 to $700 for a whole-home visual inspection, rising to $500 to $1,000 when air or surface samples are collected and sent to an accredited lab. Clearance testing after remediation runs $300 to $600. What moves the number most: square footage, crawl space or attic access, number of samples collected, and whether thermal imaging is part of the scope.
 
