@@ -51,7 +51,7 @@ export const brand = {
   // Operator-confirmed "licensed & insured" attestation from plan-input.json —
   // lets the TrustStrip show the badge before a license number is on file.
   licensedInsuredAttested: true as boolean,
-  certifications: ["CERTIFIED ASBESTOS CONSULTANT - LEAD INSPECTOR ASSESSOR - NIOSH 582 MICROSCOPIST"] as string[],
+  certifications: ["Certified Asbestos Consultant - Lead Inspector Assessor - Niosh 582 Microscopist"] as string[],
   trustBadges: ["Licensed & Insured", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://homeguide.com/ca/hanford/water-damage-restoration/arch-enviornmental-group-llc-h6MfKMIQ8"] as string[],
