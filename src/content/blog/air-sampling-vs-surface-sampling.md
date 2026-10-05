@@ -56,7 +56,7 @@ Some situations genuinely call for combining the two methods, and a good inspect
 
 The clearest case: you have a visible growth *and* occupants with ongoing symptoms. Surface sampling identifies what's on the material; air sampling tells you whether it's affecting the indoor environment broadly. Together, they give the remediation contractor a clearer picture of scope and help establish a pre/post baseline.
 
-Another common scenario: post-remediation clearance. After a contractor has removed contaminated material and dried the structure, clearance testing typically includes air sampling to confirm spore counts have normalized. If counts are still elevated, a surface sample from any remaining suspect area can pinpoint whether the source was fully addressed.
+Another common scenario: post-remediation clearance. After a contractor has removed contaminated material and dried the structure, [clearance testing](/services/clearance-testing/) typically includes air sampling to confirm spore counts have normalized. If counts are still elevated, a surface sample from any remaining suspect area can pinpoint whether the source was fully addressed.
 
 For routine situations, a small stain after a single plumbing leak, a musty smell in one room, you usually don't need an exhaustive battery of both. A qualified inspector can walk the space, identify the most likely source, and recommend the minimum testing that will actually answer your question.
 

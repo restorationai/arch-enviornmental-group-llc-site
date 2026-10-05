@@ -30,7 +30,7 @@ In California's Central Valley, where Kingsburg sits, the climate adds a specifi
 
 ## When a Mold Test Is Worth the Cost
 
-A professional mold inspection, which typically includes both a visual assessment and air or surface sampling, makes sense in these situations:
+A [professional mold inspection](/services/mold-inspection-testing/), which typically includes both a visual assessment and air or surface sampling, makes sense in these situations:
 
 - **The seller disclosed past water damage.** Even if repairs were made, you want to know whether remediation was done correctly. A post-remediation air sample can confirm that spore counts are within normal outdoor baseline levels.
 - **You smell something musty in a closed-up room, closet, or under a sink.** That earthy, damp smell is microbial volatile organic compounds (MVOCs) off-gassing from an active colony. Don't let a seller's candle or air freshener override what your nose is telling you.

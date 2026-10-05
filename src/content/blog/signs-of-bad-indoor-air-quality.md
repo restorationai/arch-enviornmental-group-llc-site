@@ -74,7 +74,7 @@ New materials off-gas. Laminate flooring, particleboard cabinets, adhesives, pai
 
 If symptoms started after a renovation or a significant furniture purchase, the timeline is the clue.
 
-**Test that confirms it:** A formaldehyde-specific air test (passive badge sampler or active sampling with lab analysis) measures concentration in micrograms per cubic meter. A broader VOC panel can identify other off-gassing compounds if formaldehyde comes back within normal range but symptoms persist.
+**Test that confirms it:** A [formaldehyde-specific air test](/services/voc-formaldehyde-testing/) (passive badge sampler or active sampling with lab analysis) measures concentration in micrograms per cubic meter. A broader VOC panel can identify other off-gassing compounds if formaldehyde comes back within normal range but symptoms persist.
 
 ---
 

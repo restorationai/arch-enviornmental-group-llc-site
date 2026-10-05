@@ -36,7 +36,7 @@ A mold inspection and testing engagement, when performed by someone with no fina
 2. **Defines the scope.** A written report from an independent inspector gives a remediator, whoever you hire, a clear target. It also gives you a document to hand to your insurance carrier.
 3. **Sets the bar for clearance.** This is the part most homeowners don't think about until it's too late. Clearance testing, performed *after* remediation is complete, compares post-work air and surface samples against that original baseline. If the same company runs both tests, they are grading their own homework.
 
-Clearance testing is not optional if you want to know the work actually worked. Post-remediation air samples can look acceptable to the naked eye while spore counts remain elevated, particularly with species like *Aspergillus* and *Penicillium* whose spores are small enough to stay airborne long after visible growth has been removed. An independent clearance test is the only way to confirm the space is back to normal fungal ecology.
+Clearance testing is not optional if you want to know the work actually worked. Post-remediation air samples can look acceptable to the naked eye while spore counts remain elevated, particularly with species like *Aspergillus* and *Penicillium* whose spores are small enough to stay airborne long after visible growth has been removed. An [independent clearance test](/services/clearance-testing/) is the only way to confirm the space is back to normal fungal ecology.
 
 ## What Happens When the Same Company Does Both
 

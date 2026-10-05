@@ -30,7 +30,7 @@ Asbestos fibers are invisible to the naked eye and have no odor. You cannot iden
 
 ## What the Testing Process Actually Looks Like
 
-Professional asbestos testing involves two stages: bulk sampling and laboratory analysis.
+[Professional asbestos testing](/services/asbestos-testing/) involves two stages: bulk sampling and laboratory analysis.
 
 A certified inspector collects small physical samples, typically a chip of tile, a scraping of joint compound, a sliver of pipe insulation, from the materials that will be disturbed during your renovation. Each sample is sealed, labeled, and sent to an accredited laboratory for polarized light microscopy (PLM) analysis, which can identify asbestos fiber type and concentration.
 

@@ -70,7 +70,7 @@ Call a qualified environmental professional when:
 - You can smell mold but can't locate visible growth
 - Drying took longer than 48–72 hours (common when the leak was hidden and discovered late)
 
-For post-flood situations in particular, a formal [post-flood mold assessment](/post-flood-mold-assessment) provides the kind of documented baseline that both remediation contractors and insurance adjusters need to move forward efficiently.
+For post-flood situations in particular, a formal [post-flood mold assessment](/services/post-flood-mold-assessment/) provides the kind of documented baseline that both remediation contractors and insurance adjusters need to move forward efficiently.
 
 ## What Happens After Testing: The Path to Clearance
 
@@ -87,4 +87,4 @@ Skipping clearance testing to save money is a common shortcut that can result in
 
 The combination of older housing stock, irrigation-adjacent soil conditions, and hot summers makes mold timelines in the Fresno–Kingsburg corridor shorter than in cooler parts of the state. If you've had a water event in the last few days and you're unsure whether testing is warranted, the answer is almost always yes, and sooner is better.
 
-Arch Environmental Group LLC offers [mold inspection and testing services](/mold-inspection-testing) for residential and commercial properties throughout the area. Call (559) 296-2088 to talk through your situation and find out whether testing makes sense for what you're dealing with.
+Arch Environmental Group LLC offers [mold inspection and testing services](/services/mold-inspection-testing/) for residential and commercial properties throughout the area. Call (559) 296-2088 to talk through your situation and find out whether testing makes sense for what you're dealing with.
