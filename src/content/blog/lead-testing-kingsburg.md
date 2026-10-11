@@ -44,7 +44,7 @@ Lead testing is legally required in specific situations and strongly advisable i
 - Pre-renovation planning for any owner doing window replacements, door casing work, or exterior repainting on an older Central Valley farmhouse or Craftsman-era home.
 - Landlords in Kingsburg and nearby Selma or Reedley who manage pre-1978 rental stock and want documentation of surface condition before a tenancy begins.
 
-If the home was built after 1978, lead paint is not a regulatory concern under federal law. If it was built between 1940 and 1978, the probability of lead-based paint is high: the [CDC reports](https://www.cdc.gov/nceh/lead/prevention/sources/paint.htm) that approximately 87% of homes built before 1940 and 69% of homes built between 1940 and 1960 contain lead-based paint.
+If the home was built after 1978, lead paint is not a regulatory concern under federal law. If it was built between 1940 and 1978, the probability of lead-based paint is high: the CDC reports that approximately 87% of homes built before 1940 and 69% of homes built between 1940 and 1960 contain lead-based paint.
 
 ## What does the inspection process look like?
 
