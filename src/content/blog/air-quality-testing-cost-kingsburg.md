@@ -26,7 +26,7 @@ If you just moved into a newer home near Kingsburg and the smell of new cabinetr
 
 ## How Much Does Indoor Air Quality Testing Cost in Kingsburg?
 
-Indoor air quality testing cost in Kingsburg varies by scope: a basic screening that measures particulates, carbon dioxide, humidity, and temperature with a calibrated handheld meter costs less than a comprehensive assessment that adds lab-analyzed air samples and a written report comparing your indoor readings to an outdoor baseline.
+[Indoor air quality testing](/services/indoor-air-quality-testing/) cost in Kingsburg varies by scope: a basic screening that measures particulates, carbon dioxide, humidity, and temperature with a calibrated handheld meter costs less than a comprehensive assessment that adds lab-analyzed air samples and a written report comparing your indoor readings to an outdoor baseline.
 
 Most homeowners are really asking one of two things: "what's wrong with the air in this specific room" or "should I be worried about something in a new build or a recent remodel." Those are different jobs. A screening tells you whether CO2, humidity, or particulate levels are elevated right now. A full assessment with lab samples tells you what compounds are actually present, which takes longer and costs more because of the lab analysis fee on top of the site visit.
 
@@ -58,7 +58,7 @@ If you're trying to figure out which symptoms point to which test, [7 Signs of B
 
 ## When Does a VOC or Formaldehyde Panel Make Sense?
 
-A VOC or formaldehyde panel makes sense when the air quality concern traces back to new materials: fresh paint, new cabinetry, engineered wood flooring, or a recently completed remodel.
+A [VOC or formaldehyde panel](/services/voc-formaldehyde-testing/) makes sense when the air quality concern traces back to new materials: fresh paint, new cabinetry, engineered wood flooring, or a recently completed remodel.
 
 Formaldehyde is commonly used as a binding agent in pressed-wood products like particleboard and some cabinetry, and it off-gasses most heavily in the weeks and months after installation. If you moved into new construction in one of Kingsburg's newer subdivisions and the smell hasn't faded, or you just finished a kitchen remodel and someone in the house is more sensitive to odors than usual, a formaldehyde-specific panel gives you a number instead of a guess.
 

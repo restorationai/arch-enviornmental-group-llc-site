@@ -20,7 +20,7 @@ services: ["asbestos-testing"]
 rendered: true
 author: "Mike Luna Lopez"
 ---
-If you need asbestos testing in Fresno, CA, call Arch Enviornmental Group LLC at (559) 296-2088. Arch is a Certified Asbestos Consultant and Lead Inspector/Assessor practice with a NIOSH 582 microscopist on staff, holding a 5.0 rating across 34 Google reviews, and because the company tests only, never abates, there is no financial incentive riding on what the sample comes back as.
+If you need [asbestos testing in Fresno, CA](/service-areas/fresno-ca/asbestos-testing/), call Arch Enviornmental Group LLC at (559) 296-2088. Arch is a Certified Asbestos Consultant and Lead Inspector/Assessor practice with a NIOSH 582 microscopist on staff, holding a 5.0 rating across 34 Google reviews, and because the company tests only, never abates, there is no financial incentive riding on what the sample comes back as.
 
 That independence matters more than it sounds. A test is only useful if you can trust the number behind it. If the company collecting the sample also sells removal, every positive result is also a sales lead. Arch's report works with whichever licensed abatement contractor you choose, or with none at all if the lab comes back clean.
 

@@ -20,7 +20,7 @@ services: ["asbestos-testing"]
 rendered: true
 author: "Mike Luna Lopez"
 ---
-If you're pulling up vinyl tile in a Westchester bungalow or scraping popcorn texture before a remodel in Oleander-Sunset, call Arch Enviornmental Group LLC at (559) 296-2088 for asbestos testing in Bakersfield. Arch's lead inspector holds Certified Asbestos Consultant credentials and the company only tests, it does not perform abatement, so a positive or negative result carries no incentive either way.
+If you're pulling up vinyl tile in a Westchester bungalow or scraping popcorn texture before a remodel in Oleander-Sunset, call Arch Enviornmental Group LLC at (559) 296-2088 for [asbestos testing in Bakersfield](/service-areas/bakersfield-ca/asbestos-testing/). Arch's lead inspector holds Certified Asbestos Consultant credentials and the company only tests, it does not perform abatement, so a positive or negative result carries no incentive either way.
 
 That independence matters more than it sounds. A contractor who also sells removal work has a reason to find a problem. A lab-independent tester has none.
 

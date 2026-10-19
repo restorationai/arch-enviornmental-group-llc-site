@@ -18,7 +18,7 @@ services: ["mold-inspection-testing"]
 rendered: true
 author: "Mike Luna Lopez"
 ---
-DIY mold test kits give you a number. A professional inspection tells you what that number means, where the mold is coming from, and whether the building is safe to occupy. If you're holding a petri dish from the hardware store and wondering what to do next, here's the honest breakdown: the kit may confirm mold spores are present (they almost always are, everywhere), but it cannot locate hidden colonies, identify the moisture source keeping them alive, or tell you whether what you're seeing is a cosmetic issue or a structural one. That distinction is what actually drives the remediation decision.
+DIY mold test kits give you a number. A [professional mold inspection](/services/mold-inspection-testing/) tells you what that number means, where the mold is coming from, and whether the building is safe to occupy. If you're holding a petri dish from the hardware store and wondering what to do next, here's the honest breakdown: the kit may confirm mold spores are present (they almost always are, everywhere), but it cannot locate hidden colonies, identify the moisture source keeping them alive, or tell you whether what you're seeing is a cosmetic issue or a structural one. That distinction is what actually drives the remediation decision.
 
 ## What a DIY Mold Test Kit Actually Measures
 
