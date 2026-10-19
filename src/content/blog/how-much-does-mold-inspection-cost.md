@@ -18,7 +18,7 @@ services: ["mold-inspection-testing"]
 rendered: true
 author: "Mike Luna Lopez"
 ---
-A basic mold inspection in California typically runs between **$200 and $600** for a standard residential property. Add air sampling or surface swab testing and that range climbs to **$400–$1,200** or more, depending on how many samples are collected and what the lab charges to analyze them. The wide spread isn't vague pricing, it reflects real differences in property size, the number of suspect areas, the type of testing involved, and whether the inspector is a generalist or an industrial hygienist. Understanding what drives the number up or down helps you budget accurately and avoid paying for services you don't need.
+A basic [mold inspection](/services/mold-inspection-testing/) in California typically runs between **$200 and $600** for a standard residential property. Add air sampling or surface swab testing and that range climbs to **$400–$1,200** or more, depending on how many samples are collected and what the lab charges to analyze them. The wide spread isn't vague pricing, it reflects real differences in property size, the number of suspect areas, the type of testing involved, and whether the inspector is a generalist or an industrial hygienist. Understanding what drives the number up or down helps you budget accurately and avoid paying for services you don't need.
 
 ## What You're Actually Paying For
 
@@ -54,7 +54,7 @@ A general home inspector who adds mold to their service list charges less than a
 
 ### Post-remediation clearance testing
 
-If mold remediation has already been completed and you need documentation that the work was successful, clearance testing is a separate service from the initial inspection. It typically involves air sampling and comparison against the pre-remediation baseline. Budget for this as a distinct cost, it is not included in the original inspection fee.
+If mold remediation has already been completed and you need documentation that the work was successful, [clearance testing](/services/clearance-testing/) is a separate service from the initial inspection. It typically involves air sampling and comparison against the pre-remediation baseline. Budget for this as a distinct cost, it is not included in the original inspection fee.
 
 ## What Drives the Price Down (and When That's Fine)
 

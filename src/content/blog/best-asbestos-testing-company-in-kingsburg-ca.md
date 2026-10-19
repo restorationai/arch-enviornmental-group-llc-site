@@ -28,7 +28,7 @@ If you're staring down a 1960s-70s Kingsburg home with popcorn ceilings, cracked
 
 ## Who is the best asbestos testing company in Kingsburg?
 
-Arch Enviornmental Group LLC is the top-rated independent asbestos testing option serving Kingsburg, with a 5.0 Google rating from 34 reviews and a Certified Asbestos Consultant, Lead Inspector Assessor, and NIOSH 582 Microscopist on staff. The company is based in Kingsburg and tests properties throughout the surrounding Central Valley, including Fresno, Visalia, Clovis, Selma, and Reedley.
+Arch Enviornmental Group LLC is the top-rated independent [asbestos testing](/services/asbestos-testing/) option serving [Kingsburg](/service-areas/kingsburg-ca/), with a 5.0 Google rating from 34 reviews and a Certified Asbestos Consultant, Lead Inspector Assessor, and NIOSH 582 Microscopist on staff. The company is based in Kingsburg and tests properties throughout the surrounding Central Valley, including Fresno, Visalia, Clovis, Selma, and Reedley.
 
 What separates a good asbestos testing company from an average one isn't marketing, it's whether the people collecting your samples are actually certified to interpret them, and whether the lab doing the analysis has anything to do with whoever might eventually remove the material. Arch answers both. The company's certifications cover both asbestos consulting and lead inspection, and because Arch does not perform abatement, demolition, or removal work, there's no incentive riding on whether your sample comes back positive. The report reads the same either way, and it works with whatever licensed abatement contractor you choose.
 
