@@ -1,9 +1,9 @@
 ---
 archetype: "contact"
-title: "Contact Arch Enviornmental Group LLC | Environmental Testing in Kingsburg"
-h1: "Contact Arch Enviornmental Group LLC"
+title: "Contact Arch Environmental Group LLC | Environmental Testing in Kingsburg"
+h1: "Contact Arch Environmental Group LLC"
 meta_description: "Call (559) 296-2088 to schedule mold, air quality, asbestos, or lead testing in Kingsburg and surrounding areas. Independent inspections, clear written reports."
-primary_keyword: "arch enviornmental group llc contact"
+primary_keyword: "arch environmental group llc contact"
 secondary_keywords: ["environmental testing company contact", "schedule a mold inspection", "environmental inspection near me"]
 search_intent: "navigational_action"
 priority: 2.5

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Site Assessments in Minkler, CA | Arch Enviornmental Group LLC"
+title: "Environmental Site Assessments in Minkler, CA | Arch Environmental Group LLC"
 h1: "Environmental Site Assessments in Minkler"
 meta_description: "Certified environmental site assessments in Minkler, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "environmental site assessments minkler"

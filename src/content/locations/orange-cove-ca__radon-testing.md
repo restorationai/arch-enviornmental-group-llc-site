@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Radon Testing in Orange Cove, CA | Arch Enviornmental Group LLC"
+title: "Radon Testing in Orange Cove, CA | Arch Environmental Group LLC"
 h1: "Radon Testing in Orange Cove"
 meta_description: "Certified radon testing in Orange Cove, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "radon testing orange cove"

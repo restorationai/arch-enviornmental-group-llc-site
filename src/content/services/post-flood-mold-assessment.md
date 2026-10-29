@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Post-Flood Mold Assessment in Kingsburg | Arch Enviornmental Group LLC"
+title: "Post-Flood Mold Assessment in Kingsburg | Arch Environmental Group LLC"
 h1: "Post-Flood Mold Assessment in Kingsburg"
 meta_description: "Certified post-flood mold assessment in Kingsburg and surrounding areas. Independent inspections, accredited lab analysis, clear written reports. Call (559) 296-2088."
 primary_keyword: "post-flood mold assessment kingsburg"

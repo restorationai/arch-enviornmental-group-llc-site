@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "HVAC and Duct System Assessments in Dinuba, CA | Arch Enviornmental Group LLC"
+title: "HVAC and Duct System Assessments in Dinuba, CA | Arch Environmental Group LLC"
 h1: "HVAC and Duct System Assessments in Dinuba"
 meta_description: "Certified hvac and duct system assessments in Dinuba, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "hvac and duct system assessments dinuba"

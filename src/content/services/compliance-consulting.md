@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Environmental Compliance Consulting in Kingsburg | Arch Enviornmental Group LLC"
+title: "Environmental Compliance Consulting in Kingsburg | Arch Environmental Group LLC"
 h1: "Environmental Compliance Consulting in Kingsburg"
 meta_description: "Certified environmental compliance consulting in Kingsburg and surrounding areas. Independent inspections, accredited lab analysis, clear written reports. Call (559) 296-2088."
 primary_keyword: "environmental compliance consulting kingsburg"

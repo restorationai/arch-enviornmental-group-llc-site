@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "VOC and Formaldehyde Testing in Selma, CA | Arch Enviornmental Group LLC"
+title: "VOC and Formaldehyde Testing in Selma, CA | Arch Environmental Group LLC"
 h1: "VOC and Formaldehyde Testing in Selma"
 meta_description: "Certified voc and formaldehyde testing in Selma, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "voc and formaldehyde testing selma"

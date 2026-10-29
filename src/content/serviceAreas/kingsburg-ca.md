@@ -1,8 +1,8 @@
 ---
 archetype: "service-area"
-title: "Serving All of Kingsburg, CA | Arch Enviornmental Group LLC"
+title: "Serving All of Kingsburg, CA | Arch Environmental Group LLC"
 h1: "Serving All of Kingsburg"
-meta_description: "Arch Enviornmental Group LLC is based in Kingsburg, CA. See the parts of Kingsburg we cover and every service we offer here. Call (559) 296-2088."
+meta_description: "Arch Environmental Group LLC is based in Kingsburg, CA. See the parts of Kingsburg we cover and every service we offer here. Call (559) 296-2088."
 primary_keyword: "kingsburg service area"
 secondary_keywords: ["kingsburg neighborhoods we serve"]
 search_intent: "local_commercial"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Radon Testing in Clovis, CA | Arch Enviornmental Group LLC"
+title: "Radon Testing in Clovis, CA | Arch Environmental Group LLC"
 h1: "Radon Testing in Clovis"
 meta_description: "Certified radon testing in Clovis, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "radon testing clovis"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Litigation Support and Forensic Sampling in Kingsburg | Arch Enviornmental Group LLC"
+title: "Litigation Support and Forensic Sampling in Kingsburg | Arch Environmental Group LLC"
 h1: "Litigation Support and Forensic Sampling in Kingsburg"
 meta_description: "Certified litigation support and forensic sampling in Kingsburg and surrounding areas. Independent inspections, accredited lab analysis, clear written reports. Call (559) 296-2088."
 primary_keyword: "litigation support and forensic sampling kingsburg"

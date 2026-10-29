@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Mold Inspection and Testing in Kingsburg | Arch Enviornmental Group LLC"
+title: "Mold Inspection and Testing in Kingsburg | Arch Environmental Group LLC"
 h1: "Mold Inspection and Testing in Kingsburg"
 meta_description: "Mold inspection and testing in Kingsburg and surrounding areas. Insurance billing accepted. Call (559) 296-2088."
 primary_keyword: "mold inspection and testing kingsburg"

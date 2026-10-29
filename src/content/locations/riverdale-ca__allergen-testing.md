@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Allergen Testing in Riverdale, CA | Arch Enviornmental Group LLC"
+title: "Allergen Testing in Riverdale, CA | Arch Environmental Group LLC"
 h1: "Allergen Testing in Riverdale"
 meta_description: "Certified allergen testing in Riverdale, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "allergen testing riverdale"

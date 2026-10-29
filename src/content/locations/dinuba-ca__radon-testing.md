@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Radon Testing in Dinuba, CA | Arch Enviornmental Group LLC"
+title: "Radon Testing in Dinuba, CA | Arch Environmental Group LLC"
 h1: "Radon Testing in Dinuba"
 meta_description: "Certified radon testing in Dinuba, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "radon testing dinuba"

@@ -4,9 +4,9 @@
 
 export const brand = {
   slug: "arch-enviornmental-group-llc",
-  displayName: "Arch Enviornmental Group LLC",
-  shortName: "Arch Enviornmental Group LLC",
-  legalName: "Arch Enviornmental Group LLC",
+  displayName: "Arch Environmental Group LLC",
+  shortName: "Arch Environmental Group LLC",
+  legalName: "Arch Environmental Group LLC",
   domain: "archenviroservice.com",
   canonicalUrl: "https://archenviroservice.com",
   phone: "(559) 296-2088",
@@ -75,7 +75,7 @@ export const brand = {
   tradeNoun: "environmental testing",
   specialistPhrase: "Environmental Testing & Inspection Specialists",
   announcementSuffix: "Independent, Lab-Verified Testing",
-  homeAboutBlurb: "Arch Enviornmental Group LLC provides independent environmental testing and inspections for homes and businesses across Kingsburg and communities throughout California's Central Valley. From mold and air quality testing to asbestos, lead, and water testing, every assessment is backed by accredited laboratory analysis and a clear written report. Because we don't perform the remediation ourselves, our findings are unbiased: we have no incentive to find problems that aren't there.",
+  homeAboutBlurb: "Arch Environmental Group LLC provides independent environmental testing and inspections for homes and businesses across Kingsburg and communities throughout California's Central Valley. From mold and air quality testing to asbestos, lead, and water testing, every assessment is backed by accredited laboratory analysis and a clear written report. Because we don't perform the remediation ourselves, our findings are unbiased: we have no incentive to find problems that aren't there.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

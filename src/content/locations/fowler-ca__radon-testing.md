@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Radon Testing in Fowler, CA | Arch Enviornmental Group LLC"
+title: "Radon Testing in Fowler, CA | Arch Environmental Group LLC"
 h1: "Radon Testing in Fowler"
 meta_description: "Certified radon testing in Fowler, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "radon testing fowler"

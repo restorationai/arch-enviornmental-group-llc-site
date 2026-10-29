@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Visalia, CA | Arch Enviornmental Group LLC"
+title: "Mold Inspection and Testing in Visalia, CA | Arch Environmental Group LLC"
 h1: "Mold Inspection and Testing in Visalia"
 meta_description: "Certified mold inspection and testing in Visalia, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "mold inspection and testing visalia"

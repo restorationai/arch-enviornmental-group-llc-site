@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Environmental Site Assessments in Kingsburg | Arch Enviornmental Group LLC"
+title: "Environmental Site Assessments in Kingsburg | Arch Environmental Group LLC"
 h1: "Environmental Site Assessments in Kingsburg"
 meta_description: "Certified environmental site assessments in Kingsburg and surrounding areas. Independent inspections, accredited lab analysis, clear written reports. Call (559) 296-2088."
 primary_keyword: "environmental site assessments kingsburg"

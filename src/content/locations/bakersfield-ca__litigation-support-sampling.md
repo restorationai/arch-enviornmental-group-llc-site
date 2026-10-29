@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Litigation Support and Forensic Sampling in Bakersfield, CA | Arch Enviornmental Group LLC"
+title: "Litigation Support and Forensic Sampling in Bakersfield, CA | Arch Environmental Group LLC"
 h1: "Litigation Support and Forensic Sampling in Bakersfield"
 meta_description: "Certified litigation support and forensic sampling in Bakersfield, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "litigation support and forensic sampling bakersfield"

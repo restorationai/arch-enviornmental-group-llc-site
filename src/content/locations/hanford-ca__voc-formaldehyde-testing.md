@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "VOC and Formaldehyde Testing in Hanford, CA | Arch Enviornmental Group LLC"
+title: "VOC and Formaldehyde Testing in Hanford, CA | Arch Environmental Group LLC"
 h1: "VOC and Formaldehyde Testing in Hanford"
 meta_description: "Certified voc and formaldehyde testing in Hanford, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "voc and formaldehyde testing hanford"

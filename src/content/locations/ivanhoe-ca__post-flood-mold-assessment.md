@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Flood Mold Assessment in Ivanhoe, CA | Arch Enviornmental Group LLC"
+title: "Post-Flood Mold Assessment in Ivanhoe, CA | Arch Environmental Group LLC"
 h1: "Post-Flood Mold Assessment in Ivanhoe"
 meta_description: "Certified post-flood mold assessment in Ivanhoe, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "post-flood mold assessment ivanhoe"

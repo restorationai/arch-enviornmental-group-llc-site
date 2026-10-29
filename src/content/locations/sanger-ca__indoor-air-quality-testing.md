@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Indoor Air Quality Testing in Sanger, CA | Arch Enviornmental Group LLC"
+title: "Indoor Air Quality Testing in Sanger, CA | Arch Environmental Group LLC"
 h1: "Indoor Air Quality Testing in Sanger"
 meta_description: "Certified indoor air quality testing in Sanger, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "indoor air quality testing sanger"

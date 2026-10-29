@@ -69,12 +69,12 @@ Elevated mold levels in the lab report mean you have documented evidence of a pr
 
 The remediation contractor scopes and performs the physical work: containment, removal of affected materials, treatment, and drying. Once they declare the work complete, an independent clearance test, new air samples collected by a third-party inspector and analyzed by an accredited lab, confirms that spore counts have returned to normal levels. Clearance testing should never come from the same company that did the remediation; the independence of the verification is the point.
 
-Arch Enviornmental Group LLC handles both the initial mold testing and the post-remediation clearance testing for Dinuba and surrounding Kings County properties, so the chain of documentation stays consistent from first sample to final sign-off.
+Arch Environmental Group LLC handles both the initial mold testing and the post-remediation clearance testing for Dinuba and surrounding Kings County properties, so the chain of documentation stays consistent from first sample to final sign-off.
 
 If results are normal, you have documented evidence of that too, which has its own value in a real estate transaction or an insurance context.
 
 ---
 
-**About Arch Enviornmental Group LLC**
+**About Arch Environmental Group LLC**
 
-Arch Enviornmental Group LLC is an independent environmental testing company serving Dinuba, Kingsburg, Fresno, Visalia, and the surrounding Central Valley since 2026. Their certified inspectors hold credentials as a Certified Asbestos Consultant, Lead Inspector Assessor, and NIOSH 582 Microscopist. Services include mold inspection and testing, indoor air quality testing, asbestos testing, lead paint testing, water quality testing, clearance testing, radon testing, VOC and formaldehyde testing, allergen testing, HVAC and duct assessments, post-flood mold assessment, sewage contamination assessment, remediation oversight, environmental site assessments, compliance consulting, and litigation support sampling. All samples are analyzed by accredited third-party laboratories. Reach them at (559) 296-2088.
+Arch Environmental Group LLC is an independent environmental testing company serving Dinuba, Kingsburg, Fresno, Visalia, and the surrounding Central Valley since 2026. Their certified inspectors hold credentials as a Certified Asbestos Consultant, Lead Inspector Assessor, and NIOSH 582 Microscopist. Services include mold inspection and testing, indoor air quality testing, asbestos testing, lead paint testing, water quality testing, clearance testing, radon testing, VOC and formaldehyde testing, allergen testing, HVAC and duct assessments, post-flood mold assessment, sewage contamination assessment, remediation oversight, environmental site assessments, compliance consulting, and litigation support sampling. All samples are analyzed by accredited third-party laboratories. Reach them at (559) 296-2088.

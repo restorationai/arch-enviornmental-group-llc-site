@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Sewage Contamination Assessment in Minkler, CA | Arch Enviornmental Group LLC"
+title: "Sewage Contamination Assessment in Minkler, CA | Arch Environmental Group LLC"
 h1: "Sewage Contamination Assessment in Minkler"
 meta_description: "Certified sewage contamination assessment in Minkler, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "sewage contamination assessment minkler"

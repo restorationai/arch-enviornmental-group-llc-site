@@ -79,10 +79,10 @@ Finding lead-based paint does not mean the home is uninhabitable or that immedia
 
 After any abatement work, independent [clearance testing](/services/clearance-testing/) verifies the contractor's work meets federal standards. This is the step that closes the loop and gives you a documented clean bill for the property.
 
-For lead paint testing in Kingsburg and across the Central Valley, Arch Enviornmental Group LLC provides independent lead inspections and risk assessments with all samples analyzed by accredited third-party laboratories. Because the company does not perform abatement, the findings carry no remediation upsell. Schedule a [lead paint inspection](/services/lead-paint-testing/) or call (559) 296-2088 to discuss your property's scope.
+For lead paint testing in Kingsburg and across the Central Valley, Arch Environmental Group LLC provides independent lead inspections and risk assessments with all samples analyzed by accredited third-party laboratories. Because the company does not perform abatement, the findings carry no remediation upsell. Schedule a [lead paint inspection](/services/lead-paint-testing/) or call (559) 296-2088 to discuss your property's scope.
 
 ---
 
-**About Arch Enviornmental Group LLC**
+**About Arch Environmental Group LLC**
 
-Arch Enviornmental Group LLC is an independent environmental testing company based in Kingsburg, CA (2453 16th Ave, 93631). The company's inspectors are certified as Lead Inspector Assessors and Certified Asbestos Consultants, and hold NIOSH 582 Microscopist credentials. Services include lead paint testing and risk assessments, asbestos testing, mold inspection, indoor air quality testing, radon testing, water quality testing, clearance testing, and a full range of environmental assessment services across Kingsburg, Fresno, Visalia, Selma, Reedley, and surrounding Central Valley communities. All field samples are analyzed by accredited third-party laboratories with chain-of-custody documentation.
+Arch Environmental Group LLC is an independent environmental testing company based in Kingsburg, CA (2453 16th Ave, 93631). The company's inspectors are certified as Lead Inspector Assessors and Certified Asbestos Consultants, and hold NIOSH 582 Microscopist credentials. Services include lead paint testing and risk assessments, asbestos testing, mold inspection, indoor air quality testing, radon testing, water quality testing, clearance testing, and a full range of environmental assessment services across Kingsburg, Fresno, Visalia, Selma, Reedley, and surrounding Central Valley communities. All field samples are analyzed by accredited third-party laboratories with chain-of-custody documentation.

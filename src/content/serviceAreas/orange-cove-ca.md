@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Environmental Testing in Orange Cove, CA | Arch Enviornmental Group LLC"
+title: "Environmental Testing in Orange Cove, CA | Arch Environmental Group LLC"
 h1: "Environmental Testing in Orange Cove"
 meta_description: "Serving Orange Cove, CA with independent mold, air quality, asbestos, lead, and water testing. Certified inspectors, accredited labs. Call (559) 296-2088."
 primary_keyword: "environmental testing orange cove"

@@ -1,9 +1,9 @@
 ---
 archetype: "about"
-title: "About Arch Enviornmental Group LLC | Kingsburg Environmental Testing Company"
-h1: "About Arch Enviornmental Group LLC"
-meta_description: "Arch Enviornmental Group LLC has served Kingsburg since 2026. Meet our certified environmental inspection team. Independent, licensed, locally owned."
-primary_keyword: "arch enviornmental group llc kingsburg"
+title: "About Arch Environmental Group LLC | Kingsburg Environmental Testing Company"
+h1: "About Arch Environmental Group LLC"
+meta_description: "Arch Environmental Group LLC has served Kingsburg since 2026. Meet our certified environmental inspection team. Independent, licensed, locally owned."
+primary_keyword: "arch environmental group llc kingsburg"
 secondary_keywords: ["local environmental testing company", "certified environmental inspector", "independent environmental consultant"]
 search_intent: "navigational_trust"
 priority: 2.5

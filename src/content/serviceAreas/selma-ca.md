@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Environmental Testing in Selma, CA | Arch Enviornmental Group LLC"
+title: "Environmental Testing in Selma, CA | Arch Environmental Group LLC"
 h1: "Environmental Testing in Selma"
 meta_description: "Serving Selma, CA with independent mold, air quality, asbestos, lead, and water testing. Certified inspectors, accredited labs. Call (559) 296-2088."
 primary_keyword: "environmental testing selma"

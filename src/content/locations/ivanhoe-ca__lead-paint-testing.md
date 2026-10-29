@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Testing and Inspection in Ivanhoe, CA | Arch Enviornmental Group LLC"
+title: "Lead Paint Testing and Inspection in Ivanhoe, CA | Arch Environmental Group LLC"
 h1: "Lead Paint Testing and Inspection in Ivanhoe"
 meta_description: "Certified lead paint testing and inspection in Ivanhoe, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "lead paint testing and inspection ivanhoe"

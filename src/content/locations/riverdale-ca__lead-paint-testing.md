@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Testing and Inspection in Riverdale, CA | Arch Enviornmental Group LLC"
+title: "Lead Paint Testing and Inspection in Riverdale, CA | Arch Environmental Group LLC"
 h1: "Lead Paint Testing and Inspection in Riverdale"
 meta_description: "Certified lead paint testing and inspection in Riverdale, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "lead paint testing and inspection riverdale"

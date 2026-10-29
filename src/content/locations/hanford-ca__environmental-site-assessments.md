@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Site Assessments in Hanford, CA | Arch Enviornmental Group LLC"
+title: "Environmental Site Assessments in Hanford, CA | Arch Environmental Group LLC"
 h1: "Environmental Site Assessments in Hanford"
 meta_description: "Certified environmental site assessments in Hanford, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "environmental site assessments hanford"

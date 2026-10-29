@@ -90,12 +90,12 @@ The clearance testing should come from an independent inspector, not the abateme
 
 In California, asbestos inspections and surveys must be performed by a Certified Asbestos Consultant (CAC) or a Certified Site Surveillance Technician (CSST) working under a CAC, as credentialed by the California Division of Occupational Safety and Health (Cal/OSHA). Always ask for the consultant's CAC certification number and verify it through the [Cal/OSHA asbestos certification lookup](https://www.dir.ca.gov/dosh/asbestos.html) before scheduling.
 
-For homeowners and property managers in Kingsburg, Fresno, Visalia, Selma, and the surrounding Central Valley, Arch Enviornmental Group LLC provides certified asbestos consulting and bulk sampling with all samples analyzed by an accredited third-party laboratory. Because the company does not perform abatement, the results are contractor-neutral: the report works with any qualified abatement contractor you choose.
+For homeowners and property managers in Kingsburg, Fresno, Visalia, Selma, and the surrounding Central Valley, Arch Environmental Group LLC provides certified asbestos consulting and bulk sampling with all samples analyzed by an accredited third-party laboratory. Because the company does not perform abatement, the results are contractor-neutral: the report works with any qualified abatement contractor you choose.
 
 To get a written scope for your property, call (559) 296-2088 or visit the [asbestos testing service page](/services/asbestos-testing/) to schedule an inspection.
 
 ---
 
-**About Arch Enviornmental Group LLC**
+**About Arch Environmental Group LLC**
 
-Arch Enviornmental Group LLC is an independent environmental testing company based in Kingsburg, CA, serving the Central Valley including Fresno, Visalia, Clovis, Selma, Reedley, and surrounding communities. Their certified consultants handle asbestos testing, mold inspection, lead paint testing, indoor air quality assessments, radon testing, water quality testing, and a full range of environmental inspection services. All samples are analyzed by accredited third-party laboratories. Because the company performs testing only, its reports are unbiased and work with any contractor the client selects.
+Arch Environmental Group LLC is an independent environmental testing company based in Kingsburg, CA, serving the Central Valley including Fresno, Visalia, Clovis, Selma, Reedley, and surrounding communities. Their certified consultants handle asbestos testing, mold inspection, lead paint testing, indoor air quality assessments, radon testing, water quality testing, and a full range of environmental inspection services. All samples are analyzed by accredited third-party laboratories. Because the company performs testing only, its reports are unbiased and work with any contractor the client selects.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Sewage Contamination Assessment in Kingsburg | Arch Enviornmental Group LLC"
+title: "Sewage Contamination Assessment in Kingsburg | Arch Environmental Group LLC"
 h1: "Sewage Contamination Assessment in Kingsburg"
 meta_description: "Certified sewage contamination assessment in Kingsburg and surrounding areas. Independent inspections, accredited lab analysis, clear written reports. Call (559) 296-2088."
 primary_keyword: "sewage contamination assessment kingsburg"

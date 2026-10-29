@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Allergen Testing in Orange Cove, CA | Arch Enviornmental Group LLC"
+title: "Allergen Testing in Orange Cove, CA | Arch Environmental Group LLC"
 h1: "Allergen Testing in Orange Cove"
 meta_description: "Certified allergen testing in Orange Cove, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "allergen testing orange cove"

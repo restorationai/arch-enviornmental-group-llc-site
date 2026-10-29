@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Compliance Consulting in Hanford, CA | Arch Enviornmental Group LLC"
+title: "Environmental Compliance Consulting in Hanford, CA | Arch Environmental Group LLC"
 h1: "Environmental Compliance Consulting in Hanford"
 meta_description: "Certified environmental compliance consulting in Hanford, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "environmental compliance consulting hanford"

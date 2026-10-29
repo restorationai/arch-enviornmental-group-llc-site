@@ -50,8 +50,8 @@ It also means not overselling. An independent testing company has no financial s
 
 If you're staring down a closing date, a tenant move-in, or just a smell you can't explain, the lesson from this review is simple: a good testing company should make the logistics the easy part. You shouldn't have to chase a callback for three days, and you shouldn't have to clear your calendar once someone's on the way.
 
-If you're in the Bakersfield area and need an environmental test scheduled quickly, [Arch Enviornmental Group LLC](/contact/) handles appointment scheduling directly rather than routing calls through a dispatcher, which is part of why visits like the one described above can happen on short notice. If asbestos is part of your concern specifically, our [guide to who handles asbestos testing in Bakersfield](/blog/who-to-call-for-asbestos-testing-in-bakersfield-ca/) covers what that process looks like in more detail.
+If you're in the Bakersfield area and need an environmental test scheduled quickly, [Arch Environmental Group LLC](/contact/) handles appointment scheduling directly rather than routing calls through a dispatcher, which is part of why visits like the one described above can happen on short notice. If asbestos is part of your concern specifically, our [guide to who handles asbestos testing in Bakersfield](/blog/who-to-call-for-asbestos-testing-in-bakersfield-ca/) covers what that process looks like in more detail.
 
 Every property and every concern is different, so the exact sampling plan will vary. What shouldn't vary is the experience: a quick response, a technician who knows what they're doing, and a visit that asks very little of you.
 
-**Need help now?** [Call Arch Enviornmental Group LLC at (559) 296-2088](tel:+15592962088).
+**Need help now?** [Call Arch Environmental Group LLC at (559) 296-2088](tel:+15592962088).

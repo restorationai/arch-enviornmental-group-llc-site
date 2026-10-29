@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Clearance Testing and Post-Remediation Verification in Fresno, CA | Arch Enviornmental Group LLC"
+title: "Clearance Testing and Post-Remediation Verification in Fresno, CA | Arch Environmental Group LLC"
 h1: "Clearance Testing and Post-Remediation Verification in Fresno"
 meta_description: "Certified clearance testing and post-remediation verification in Fresno, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "clearance testing and post-remediation verification fresno"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Allergen Testing in Fowler, CA | Arch Enviornmental Group LLC"
+title: "Allergen Testing in Fowler, CA | Arch Environmental Group LLC"
 h1: "Allergen Testing in Fowler"
 meta_description: "Certified allergen testing in Fowler, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "allergen testing fowler"

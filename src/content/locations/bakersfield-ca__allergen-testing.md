@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Allergen Testing in Bakersfield, CA | Arch Enviornmental Group LLC"
+title: "Allergen Testing in Bakersfield, CA | Arch Environmental Group LLC"
 h1: "Allergen Testing in Bakersfield"
 meta_description: "Certified allergen testing in Bakersfield, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "allergen testing bakersfield"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Environmental Testing in Minkler, CA | Arch Enviornmental Group LLC"
+title: "Environmental Testing in Minkler, CA | Arch Environmental Group LLC"
 h1: "Environmental Testing in Minkler"
 meta_description: "Serving Minkler, CA with independent mold, air quality, asbestos, lead, and water testing. Certified inspectors, accredited labs. Call (559) 296-2088."
 primary_keyword: "environmental testing minkler"

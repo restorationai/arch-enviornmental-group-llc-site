@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Lead Paint Testing and Inspection in Kingsburg | Arch Enviornmental Group LLC"
+title: "Lead Paint Testing and Inspection in Kingsburg | Arch Environmental Group LLC"
 h1: "Lead Paint Testing and Inspection in Kingsburg"
 meta_description: "Professional lead paint testing and inspection in Kingsburg and surrounding areas. Independent inspections, accredited lab analysis, clear written reports. Call (559) 296-2088."
 primary_keyword: "lead paint testing and inspection kingsburg"

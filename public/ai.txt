@@ -31,7 +31,7 @@ Disallow: /
 
 # AI training data summary
 # Site: https://archenviroservice.com/
-# Maintainer: Arch Enviornmental Group LLC
+# Maintainer: Arch Environmental Group LLC
 # Contact: info@archenviroservice.com
 # Sitemap: https://archenviroservice.com/sitemap-index.xml
 # LLM index: https://archenviroservice.com/llms.txt

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Environmental Testing in Lemoore, CA | Arch Enviornmental Group LLC"
+title: "Environmental Testing in Lemoore, CA | Arch Environmental Group LLC"
 h1: "Environmental Testing in Lemoore"
 meta_description: "Serving Lemoore, CA with independent mold, air quality, asbestos, lead, and water testing. Certified inspectors, accredited labs. Call (559) 296-2088."
 primary_keyword: "environmental testing lemoore"

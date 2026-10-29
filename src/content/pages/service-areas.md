@@ -1,9 +1,9 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Arch Enviornmental Group LLC Environmental Testing"
+title: "Service Areas | Arch Environmental Group LLC Environmental Testing"
 h1: "Areas We Serve"
-meta_description: "Arch Enviornmental Group LLC provides independent environmental testing across Kingsburg and the surrounding region. Find your city."
-primary_keyword: "arch enviornmental group llc service areas"
+meta_description: "Arch Environmental Group LLC provides independent environmental testing across Kingsburg and the surrounding region. Find your city."
+primary_keyword: "arch environmental group llc service areas"
 secondary_keywords: ["environmental testing service area", "cities we serve", "local environmental testing coverage"]
 search_intent: "navigational_local"
 priority: 3.5

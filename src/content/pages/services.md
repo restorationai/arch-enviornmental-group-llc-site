@@ -1,6 +1,6 @@
 ---
 archetype: "services-hub"
-title: "Environmental Testing Services in Kingsburg | Arch Enviornmental Group LLC"
+title: "Environmental Testing Services in Kingsburg | Arch Environmental Group LLC"
 h1: "Our Environmental Testing Services"
 meta_description: "Full-service environmental testing in Kingsburg: mold, indoor air quality, asbestos, lead, water, and clearance testing. Independent, lab-verified results. Call (559) 296-2088."
 primary_keyword: "environmental testing services kingsburg"

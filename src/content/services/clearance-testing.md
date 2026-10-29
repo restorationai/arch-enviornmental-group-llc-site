@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Clearance Testing and Post-Remediation Verification in Kingsburg | Arch Enviornmental Group LLC"
+title: "Clearance Testing and Post-Remediation Verification in Kingsburg | Arch Environmental Group LLC"
 h1: "Clearance Testing and Post-Remediation Verification in Kingsburg"
 meta_description: "Certified clearance testing and post-remediation verification in Kingsburg and surrounding areas. Independent inspections, accredited lab analysis, clear written reports. Call (559) 296-2088."
 primary_keyword: "clearance testing and post-remediation verification kingsburg"

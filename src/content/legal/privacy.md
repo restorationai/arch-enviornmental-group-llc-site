@@ -1,9 +1,9 @@
 ---
 archetype: "legal"
-title: "Privacy Policy | Arch Enviornmental Group LLC"
+title: "Privacy Policy | Arch Environmental Group LLC"
 h1: "Privacy Policy"
 meta_description: "Privacy Policy for Arch Environmental Group LLC, independent environmental testing in Kingsburg, CA."
-primary_keyword: "arch enviornmental group llc privacy"
+primary_keyword: "arch environmental group llc privacy"
 secondary_keywords: []
 search_intent: "navigational_legal"
 priority: 1.0

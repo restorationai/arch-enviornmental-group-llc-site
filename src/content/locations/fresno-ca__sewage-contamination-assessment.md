@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Sewage Contamination Assessment in Fresno, CA | Arch Enviornmental Group LLC"
+title: "Sewage Contamination Assessment in Fresno, CA | Arch Environmental Group LLC"
 h1: "Sewage Contamination Assessment in Fresno"
 meta_description: "Certified sewage contamination assessment in Fresno, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "sewage contamination assessment fresno"

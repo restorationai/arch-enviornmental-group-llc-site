@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Remediation Oversight and Project Management in Minkler, CA | Arch Enviornmental Group LLC"
+title: "Remediation Oversight and Project Management in Minkler, CA | Arch Environmental Group LLC"
 h1: "Remediation Oversight and Project Management in Minkler"
 meta_description: "Certified remediation oversight and project management in Minkler, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "remediation oversight and project management minkler"

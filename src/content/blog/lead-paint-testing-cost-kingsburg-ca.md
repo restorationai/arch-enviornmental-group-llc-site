@@ -37,7 +37,7 @@ Most Kingsburg properties fall somewhere between $150 for a narrow, single-area 
 | Post-renovation dust wipe clearance (3-5 wipe samples) | $200 - $450 |
 | Lead + asbestos combined pre-remodel testing | $500 - $1,100 |
 
-These are typical industry ranges for this type of work, not a quote. Every property is different, and Arch Enviornmental Group LLC provides a written scope before any testing begins, so you know what's included before you commit.
+These are typical industry ranges for this type of work, not a quote. Every property is different, and Arch Environmental Group LLC provides a written scope before any testing begins, so you know what's included before you commit.
 
 ## What Drives the Price of a Lead Inspection or Risk Assessment?
 
@@ -61,7 +61,7 @@ For most whole-home jobs, XRF is faster and more cost-effective. For a narrow di
 
 In a real estate transaction involving a pre-1978 home, the buyer typically requests and pays for lead testing during their inspection contingency period, since federal disclosure rules only require sellers to disclose KNOWN lead hazards, not to test for unknown ones. Sometimes the cost gets negotiated into closing credits if testing turns up a finding.
 
-For rental properties built before 1978, the cost usually falls to the landlord or property manager as part of routine compliance and maintenance, particularly ahead of a unit turnover or a renovation that disturbs painted surfaces. Because Arch Enviornmental Group LLC only tests and never performs the remediation or repainting, the report it produces carries no incentive either way; it's documentation that works the same whether you're negotiating a purchase price or budgeting for a rental repaint. If you're weighing [asbestos testing](/services/asbestos-testing/) alongside lead for the same older property, bundling the two on one visit is usually more efficient than two separate appointments.
+For rental properties built before 1978, the cost usually falls to the landlord or property manager as part of routine compliance and maintenance, particularly ahead of a unit turnover or a renovation that disturbs painted surfaces. Because Arch Environmental Group LLC only tests and never performs the remediation or repainting, the report it produces carries no incentive either way; it's documentation that works the same whether you're negotiating a purchase price or budgeting for a rental repaint. If you're weighing [asbestos testing](/services/asbestos-testing/) alongside lead for the same older property, bundling the two on one visit is usually more efficient than two separate appointments.
 
 ## Are DIY Lead Test Kits Enough?
 
@@ -81,8 +81,8 @@ If you're planning a remodel on an older Kingsburg property, [scheduling lead pa
 
 ---
 
-**About Arch Enviornmental Group LLC**
+**About Arch Environmental Group LLC**
 
-Arch Enviornmental Group LLC is an independent environmental testing company serving Kingsburg and the surrounding Central Valley, including Fresno, Visalia, Clovis, Selma, and Reedley. This guide was prepared with input from Mike Luna Lopez and the Arch team, whose inspectors hold a Certified Asbestos Consultant, Lead Inspector Assessor, and NIOSH 582 Microscopist credential. The company is licensed and insured, handles mold, asbestos, lead, indoor air quality, and water quality testing, and sends all lab samples to accredited third-party laboratories rather than analyzing them in-house, since the company's role begins and ends with independent testing, not remediation.
+Arch Environmental Group LLC is an independent environmental testing company serving Kingsburg and the surrounding Central Valley, including Fresno, Visalia, Clovis, Selma, and Reedley. This guide was prepared with input from Mike Luna Lopez and the Arch team, whose inspectors hold a Certified Asbestos Consultant, Lead Inspector Assessor, and NIOSH 582 Microscopist credential. The company is licensed and insured, handles mold, asbestos, lead, indoor air quality, and water quality testing, and sends all lab samples to accredited third-party laboratories rather than analyzing them in-house, since the company's role begins and ends with independent testing, not remediation.
 
-**Need help now?** [Call Arch Enviornmental Group LLC at (559) 296-2088](tel:+15592962088).
+**Need help now?** [Call Arch Environmental Group LLC at (559) 296-2088](tel:+15592962088).

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Site Assessments in Riverdale, CA | Arch Enviornmental Group LLC"
+title: "Environmental Site Assessments in Riverdale, CA | Arch Environmental Group LLC"
 h1: "Environmental Site Assessments in Riverdale"
 meta_description: "Certified environmental site assessments in Riverdale, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "environmental site assessments riverdale"

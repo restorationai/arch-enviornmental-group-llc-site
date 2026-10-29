@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Litigation Support and Forensic Sampling in Ivanhoe, CA | Arch Enviornmental Group LLC"
+title: "Litigation Support and Forensic Sampling in Ivanhoe, CA | Arch Environmental Group LLC"
 h1: "Litigation Support and Forensic Sampling in Ivanhoe"
 meta_description: "Certified litigation support and forensic sampling in Ivanhoe, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "litigation support and forensic sampling ivanhoe"

@@ -1,8 +1,8 @@
 ---
 archetype: "blog-index"
-title: "Environmental Testing Blog | Arch Enviornmental Group LLC"
+title: "Environmental Testing Blog | Arch Environmental Group LLC"
 h1: "Environmental Testing Resources and Insights"
-meta_description: "Guides, checklists, and explainers from Arch Enviornmental Group LLC on mold, indoor air quality, asbestos, lead, radon, and water testing."
+meta_description: "Guides, checklists, and explainers from Arch Environmental Group LLC on mold, indoor air quality, asbestos, lead, radon, and water testing."
 primary_keyword: "environmental testing blog kingsburg"
 secondary_keywords: ["environmental testing guides", "indoor air quality tips", "mold testing insights"]
 search_intent: "informational_browse"

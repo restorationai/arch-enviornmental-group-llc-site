@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Squaw Valley, CA | Arch Enviornmental Group LLC"
+title: "Mold Inspection and Testing in Squaw Valley, CA | Arch Environmental Group LLC"
 h1: "Mold Inspection and Testing in Squaw Valley"
 meta_description: "Certified mold inspection and testing in Squaw Valley, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "mold inspection and testing squaw valley"

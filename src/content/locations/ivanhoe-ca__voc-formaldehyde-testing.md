@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "VOC and Formaldehyde Testing in Ivanhoe, CA | Arch Enviornmental Group LLC"
+title: "VOC and Formaldehyde Testing in Ivanhoe, CA | Arch Environmental Group LLC"
 h1: "VOC and Formaldehyde Testing in Ivanhoe"
 meta_description: "Certified voc and formaldehyde testing in Ivanhoe, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "voc and formaldehyde testing ivanhoe"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Water Quality Testing in Bakersfield, CA | Arch Enviornmental Group LLC"
+title: "Water Quality Testing in Bakersfield, CA | Arch Environmental Group LLC"
 h1: "Water Quality Testing in Bakersfield"
 meta_description: "Certified water quality testing in Bakersfield, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "water quality testing bakersfield"

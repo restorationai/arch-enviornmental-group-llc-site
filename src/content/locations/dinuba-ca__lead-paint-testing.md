@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Testing and Inspection in Dinuba, CA | Arch Enviornmental Group LLC"
+title: "Lead Paint Testing and Inspection in Dinuba, CA | Arch Environmental Group LLC"
 h1: "Lead Paint Testing and Inspection in Dinuba"
 meta_description: "Professional lead paint testing and inspection in Dinuba, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "lead paint testing and inspection dinuba"

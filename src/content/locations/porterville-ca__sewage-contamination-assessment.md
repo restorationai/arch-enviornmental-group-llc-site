@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Sewage Contamination Assessment in Porterville, CA | Arch Enviornmental Group LLC"
+title: "Sewage Contamination Assessment in Porterville, CA | Arch Environmental Group LLC"
 h1: "Sewage Contamination Assessment in Porterville"
 meta_description: "Certified sewage contamination assessment in Porterville, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "sewage contamination assessment porterville"

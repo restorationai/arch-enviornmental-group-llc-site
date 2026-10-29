@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Environmental Testing in Tulare, CA | Arch Enviornmental Group LLC"
+title: "Environmental Testing in Tulare, CA | Arch Environmental Group LLC"
 h1: "Environmental Testing in Tulare"
 meta_description: "Serving Tulare, CA with independent mold, air quality, asbestos, lead, and water testing. Certified inspectors, accredited labs. Call (559) 296-2088."
 primary_keyword: "environmental testing tulare"

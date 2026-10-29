@@ -1,9 +1,9 @@
 ---
 archetype: "legal"
-title: "Terms of Service | Arch Enviornmental Group LLC"
+title: "Terms of Service | Arch Environmental Group LLC"
 h1: "Terms of Service"
 meta_description: "Terms of Service | {brand.display_name}."
-primary_keyword: "arch enviornmental group llc terms"
+primary_keyword: "arch environmental group llc terms"
 secondary_keywords: []
 search_intent: "navigational_legal"
 priority: 1.0

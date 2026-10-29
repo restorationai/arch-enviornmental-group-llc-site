@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "VOC and Formaldehyde Testing in Kingsburg | Arch Enviornmental Group LLC"
+title: "VOC and Formaldehyde Testing in Kingsburg | Arch Environmental Group LLC"
 h1: "VOC and Formaldehyde Testing in Kingsburg"
 meta_description: "Certified voc and formaldehyde testing in Kingsburg and surrounding areas. Independent inspections, accredited lab analysis, clear written reports. Call (559) 296-2088."
 primary_keyword: "voc and formaldehyde testing kingsburg"

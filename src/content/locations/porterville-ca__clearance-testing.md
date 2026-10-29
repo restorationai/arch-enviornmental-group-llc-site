@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Clearance Testing and Post-Remediation Verification in Porterville, CA | Arch Enviornmental Group LLC"
+title: "Clearance Testing and Post-Remediation Verification in Porterville, CA | Arch Environmental Group LLC"
 h1: "Clearance Testing and Post-Remediation Verification in Porterville"
 meta_description: "Certified clearance testing and post-remediation verification in Porterville, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "clearance testing and post-remediation verification porterville"

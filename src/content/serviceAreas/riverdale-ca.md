@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Environmental Testing in Riverdale, CA | Arch Enviornmental Group LLC"
+title: "Environmental Testing in Riverdale, CA | Arch Environmental Group LLC"
 h1: "Environmental Testing in Riverdale"
 meta_description: "Serving Riverdale, CA with independent mold, air quality, asbestos, lead, and water testing. Certified inspectors, accredited labs. Call (559) 296-2088."
 primary_keyword: "environmental testing riverdale"

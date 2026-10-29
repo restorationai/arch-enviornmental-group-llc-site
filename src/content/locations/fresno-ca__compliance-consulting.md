@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Compliance Consulting in Fresno, CA | Arch Enviornmental Group LLC"
+title: "Environmental Compliance Consulting in Fresno, CA | Arch Environmental Group LLC"
 h1: "Environmental Compliance Consulting in Fresno"
 meta_description: "Certified environmental compliance consulting in Fresno, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "environmental compliance consulting fresno"

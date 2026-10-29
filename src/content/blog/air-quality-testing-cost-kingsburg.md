@@ -68,7 +68,7 @@ A basic particulate and CO2 screening won't catch this. VOCs and formaldehyde re
 
 The only way to get an accurate price is a short conversation about what's prompting the test, followed by a written scope before any sampling begins.
 
-Describe what you're noticing (a smell, a symptom, a timeline tied to new construction or a remodel) and whether you need documentation for a landlord, a buyer, or your own peace of mind. That conversation determines how many locations need sampling, whether a VOC or formaldehyde panel belongs in the scope, and how fast you need the lab results back. [Arch Enviornmental Group LLC](/contact/) provides a written scope before work starts, so you know exactly what's being tested and why before anything is scheduled.
+Describe what you're noticing (a smell, a symptom, a timeline tied to new construction or a remodel) and whether you need documentation for a landlord, a buyer, or your own peace of mind. That conversation determines how many locations need sampling, whether a VOC or formaldehyde panel belongs in the scope, and how fast you need the lab results back. [Arch Environmental Group LLC](/contact/) provides a written scope before work starts, so you know exactly what's being tested and why before anything is scheduled.
 
 Because the company only performs testing and does not profit from remediation work, the report comes back the same way regardless of what it finds. If results do point to a source that needs addressing, that's a conversation for a qualified, independent contractor, with a return visit for clearance testing once the work is done.
 
@@ -76,8 +76,8 @@ If a musty smell is part of what's prompting the call, it's worth knowing the di
 
 ---
 
-**About Arch Enviornmental Group LLC**
+**About Arch Environmental Group LLC**
 
-Arch Enviornmental Group LLC is an independent environmental testing company based in Kingsburg, CA, founded in 2026. The team holds certification as a Certified Asbestos Consultant, Lead Inspector Assessor, and NIOSH 582 Microscopist, and handles indoor air quality testing, VOC and formaldehyde testing, mold inspection, asbestos testing, lead paint testing, and related environmental assessments across the Central Valley. All lab samples are analyzed by accredited third-party laboratories, and the company is licensed and insured.
+Arch Environmental Group LLC is an independent environmental testing company based in Kingsburg, CA, founded in 2026. The team holds certification as a Certified Asbestos Consultant, Lead Inspector Assessor, and NIOSH 582 Microscopist, and handles indoor air quality testing, VOC and formaldehyde testing, mold inspection, asbestos testing, lead paint testing, and related environmental assessments across the Central Valley. All lab samples are analyzed by accredited third-party laboratories, and the company is licensed and insured.
 
-**Need help now?** [Call Arch Enviornmental Group LLC at (559) 296-2088](tel:+15592962088).
+**Need help now?** [Call Arch Environmental Group LLC at (559) 296-2088](tel:+15592962088).

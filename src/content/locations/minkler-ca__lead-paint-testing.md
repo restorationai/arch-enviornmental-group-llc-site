@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Testing and Inspection in Minkler, CA | Arch Enviornmental Group LLC"
+title: "Lead Paint Testing and Inspection in Minkler, CA | Arch Environmental Group LLC"
 h1: "Lead Paint Testing and Inspection in Minkler"
 meta_description: "Certified lead paint testing and inspection in Minkler, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "lead paint testing and inspection minkler"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Environmental Testing in Ivanhoe, CA | Arch Enviornmental Group LLC"
+title: "Environmental Testing in Ivanhoe, CA | Arch Environmental Group LLC"
 h1: "Environmental Testing in Ivanhoe"
 meta_description: "Serving Ivanhoe, CA with independent mold, air quality, asbestos, lead, and water testing. Certified inspectors, accredited labs. Call (559) 296-2088."
 primary_keyword: "environmental testing ivanhoe"

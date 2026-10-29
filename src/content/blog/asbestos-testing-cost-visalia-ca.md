@@ -69,10 +69,10 @@ Who pays depends on why the test is happening, not on any fixed rule. In a home 
 
 If a material comes back positive, the next call is to a qualified, licensed asbestos abatement contractor, not back to the firm that tested it. Because the inspector who tests the material never performs the abatement, there's no incentive built into the result either direction, and the written report works with whichever licensed contractor you choose. California homeowners can verify an abatement contractor's license and specialty classification through the state's [contractor license lookup](https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx) before signing anything. Once abatement is finished, an independent clearance air sample, read by someone other than the contractor who did the removal, confirms the space is safe to reoccupy; see our [pre-renovation asbestos guide](/blog/asbestos-test-before-renovation/) for more on when that step applies. Asbestos exposure risk and health guidance are covered in detail on the [EPA's asbestos page](https://www.epa.gov/asbestos).
 
-If your Visalia remodel is on hold waiting on a survey, or your permit application needs documentation before it moves forward, [Call Arch Enviornmental Group LLC at (559) 296-2088](tel:+15592962088) to schedule an appointment and get a written sample count before any material is disturbed.
+If your Visalia remodel is on hold waiting on a survey, or your permit application needs documentation before it moves forward, [Call Arch Environmental Group LLC at (559) 296-2088](tel:+15592962088) to schedule an appointment and get a written sample count before any material is disturbed.
 
 ---
 
-**About Arch Enviornmental Group LLC**
+**About Arch Environmental Group LLC**
 
-Arch Enviornmental Group LLC is a licensed and insured environmental testing company based in Kingsburg, CA, serving the Central Valley including Visalia, Fresno, Clovis, and the surrounding region. Its inspectors are certified as an Asbestos Consultant, Lead Inspector/Assessor, and NIOSH 582 Microscopist, and every sample is sent to an independent, accredited third-party laboratory for analysis, never evaluated in-house.
+Arch Environmental Group LLC is a licensed and insured environmental testing company based in Kingsburg, CA, serving the Central Valley including Visalia, Fresno, Clovis, and the surrounding region. Its inspectors are certified as an Asbestos Consultant, Lead Inspector/Assessor, and NIOSH 582 Microscopist, and every sample is sent to an independent, accredited third-party laboratory for analysis, never evaluated in-house.

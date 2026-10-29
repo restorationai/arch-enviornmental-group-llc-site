@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Flood Mold Assessment in Fowler, CA | Arch Enviornmental Group LLC"
+title: "Post-Flood Mold Assessment in Fowler, CA | Arch Environmental Group LLC"
 h1: "Post-Flood Mold Assessment in Fowler"
 meta_description: "Certified post-flood mold assessment in Fowler, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "post-flood mold assessment fowler"

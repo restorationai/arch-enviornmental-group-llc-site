@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Radon Testing in Minkler, CA | Arch Enviornmental Group LLC"
+title: "Radon Testing in Minkler, CA | Arch Environmental Group LLC"
 h1: "Radon Testing in Minkler"
 meta_description: "Certified radon testing in Minkler, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "radon testing minkler"

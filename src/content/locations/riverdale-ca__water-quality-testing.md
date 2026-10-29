@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Water Quality Testing in Riverdale, CA | Arch Enviornmental Group LLC"
+title: "Water Quality Testing in Riverdale, CA | Arch Environmental Group LLC"
 h1: "Water Quality Testing in Riverdale"
 meta_description: "Certified water quality testing in Riverdale, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "water quality testing riverdale"

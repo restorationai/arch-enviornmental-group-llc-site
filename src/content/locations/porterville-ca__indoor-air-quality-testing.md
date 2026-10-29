@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Indoor Air Quality Testing in Porterville, CA | Arch Enviornmental Group LLC"
+title: "Indoor Air Quality Testing in Porterville, CA | Arch Environmental Group LLC"
 h1: "Indoor Air Quality Testing in Porterville"
 meta_description: "Certified indoor air quality testing in Porterville, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "indoor air quality testing porterville"

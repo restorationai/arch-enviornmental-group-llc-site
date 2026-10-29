@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Allergen Testing in Selma, CA | Arch Enviornmental Group LLC"
+title: "Allergen Testing in Selma, CA | Arch Environmental Group LLC"
 h1: "Allergen Testing in Selma"
 meta_description: "Certified allergen testing in Selma, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "allergen testing selma"

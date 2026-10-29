@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Indoor Air Quality Testing in Squaw Valley, CA | Arch Enviornmental Group LLC"
+title: "Indoor Air Quality Testing in Squaw Valley, CA | Arch Environmental Group LLC"
 h1: "Indoor Air Quality Testing in Squaw Valley"
 meta_description: "Certified indoor air quality testing in Squaw Valley, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "indoor air quality testing squaw valley"

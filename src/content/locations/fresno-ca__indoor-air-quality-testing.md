@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Indoor Air Quality Testing in Fresno, CA | Arch Enviornmental Group LLC"
+title: "Indoor Air Quality Testing in Fresno, CA | Arch Environmental Group LLC"
 h1: "Indoor Air Quality Testing in Fresno"
 meta_description: "Certified indoor air quality testing in Fresno, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "indoor air quality testing fresno"

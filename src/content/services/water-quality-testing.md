@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Water Quality Testing in Kingsburg | Arch Enviornmental Group LLC"
+title: "Water Quality Testing in Kingsburg | Arch Environmental Group LLC"
 h1: "Water Quality Testing in Kingsburg"
 meta_description: "Certified water quality testing in Kingsburg and surrounding areas. Independent inspections, accredited lab analysis, clear written reports. Call (559) 296-2088."
 primary_keyword: "water quality testing kingsburg"

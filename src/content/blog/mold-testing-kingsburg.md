@@ -51,7 +51,7 @@ Independent testing means the company collecting your samples has no financial i
 
 This matters more than most homeowners realize. A company that tests and remediates has an inherent incentive to find problems. An independent tester's only product is an accurate report. If the results come back clean, that's the answer you get. If the results show elevated counts, the report documents exactly what was found, where, and at what concentration, so a remediation contractor can scope the work precisely and you can verify it was done correctly with a follow-up clearance test.
 
-Arch Enviornmental Group LLC operates on this model. The inspection generates a laboratory-backed report. What happens after that, including any remediation, is your decision and your contractor's work. The clearance test at the end of that process is where we come back in, to verify the contractor's results independently.
+Arch Environmental Group LLC operates on this model. The inspection generates a laboratory-backed report. What happens after that, including any remediation, is your decision and your contractor's work. The clearance test at the end of that process is where we come back in, to verify the contractor's results independently.
 
 For more on why this separation matters, see our post on [why your mold tester should never be your mold remover](/blog/why-independent-mold-testing-matters/).
 
@@ -69,10 +69,10 @@ Before the inspection, avoid running HVAC systems or opening windows for at leas
 
 After the inspection, the inspector will walk you through the sampling locations and explain what the lab report will include. Results typically arrive within 24-72 hours. If results show elevated counts, the next step is hiring a qualified, licensed remediation contractor to scope and perform the work. Once remediation is complete, schedule a clearance test from an independent inspector, not the same company that did the cleanup, to verify the space is within normal range before you close up walls or move back in.
 
-If you're in Kingsburg or the surrounding Central Valley and ready to schedule, Arch Enviornmental Group LLC provides mold inspection and testing, [indoor air quality testing](/services/indoor-air-quality-testing/), [clearance testing](/services/clearance-testing/), and [post-flood mold assessment](/services/post-flood-mold-assessment/) for residential and commercial properties. Call (559) 296-2088 or [schedule online](/contact/) to discuss your situation.
+If you're in Kingsburg or the surrounding Central Valley and ready to schedule, Arch Environmental Group LLC provides mold inspection and testing, [indoor air quality testing](/services/indoor-air-quality-testing/), [clearance testing](/services/clearance-testing/), and [post-flood mold assessment](/services/post-flood-mold-assessment/) for residential and commercial properties. Call (559) 296-2088 or [schedule online](/contact/) to discuss your situation.
 
 ---
 
-**About Arch Enviornmental Group LLC**
+**About Arch Environmental Group LLC**
 
-Arch Enviornmental Group LLC is an independent environmental testing company based in Kingsburg, CA, serving the Central Valley including Fresno, Visalia, Clovis, Selma, Reedley, Sanger, and surrounding communities. The company is licensed and insured, and holds certifications as a Certified Asbestos Consultant, Lead Inspector Assessor, and NIOSH 582 Microscopist. Services include mold inspection and testing, indoor air quality testing, asbestos testing, lead paint testing, water quality testing, clearance testing, radon testing, VOC and formaldehyde testing, post-flood mold assessment, and additional environmental assessment services. All field samples are analyzed by accredited third-party laboratories.
+Arch Environmental Group LLC is an independent environmental testing company based in Kingsburg, CA, serving the Central Valley including Fresno, Visalia, Clovis, Selma, Reedley, Sanger, and surrounding communities. The company is licensed and insured, and holds certifications as a Certified Asbestos Consultant, Lead Inspector Assessor, and NIOSH 582 Microscopist. Services include mold inspection and testing, indoor air quality testing, asbestos testing, lead paint testing, water quality testing, clearance testing, radon testing, VOC and formaldehyde testing, post-flood mold assessment, and additional environmental assessment services. All field samples are analyzed by accredited third-party laboratories.

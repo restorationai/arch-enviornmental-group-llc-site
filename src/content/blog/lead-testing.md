@@ -57,10 +57,10 @@ Rental property owners, buyers under a closing deadline, and homeowners planning
 
 Start with a phone call describing your situation, whether it's a renovation permit, a tenant complaint, or a pending sale, and we'll scope the right combination of XRF, dust, and soil sampling for that specific property.
 
-A lead test is a small, fast step compared to what it protects you from: a stalled permit, a failed disclosure, or a health question you can't answer with confidence. Arch Enviornmental Group LLC's inspectors handle the sampling and the paperwork so you can make the next decision with real numbers in hand.
+A lead test is a small, fast step compared to what it protects you from: a stalled permit, a failed disclosure, or a health question you can't answer with confidence. Arch Environmental Group LLC's inspectors handle the sampling and the paperwork so you can make the next decision with real numbers in hand.
 
 ---
 
-**About Arch Enviornmental Group LLC**
+**About Arch Environmental Group LLC**
 
-Arch Enviornmental Group LLC is an independent environmental testing company serving Kingsburg, CA and the surrounding Central Valley, including Fresno, Clovis, Visalia, and Selma. Their inspectors hold Certified Asbestos Consultant, Lead Inspector/Assessor, and NIOSH 582 microscopist credentials, and the company is licensed and insured. Arch Enviornmental Group LLC handles lead paint testing, asbestos testing, mold inspection, indoor air quality testing, and related environmental sampling services, with all lab work performed by accredited third-party laboratories.
+Arch Environmental Group LLC is an independent environmental testing company serving Kingsburg, CA and the surrounding Central Valley, including Fresno, Clovis, Visalia, and Selma. Their inspectors hold Certified Asbestos Consultant, Lead Inspector/Assessor, and NIOSH 582 microscopist credentials, and the company is licensed and insured. Arch Environmental Group LLC handles lead paint testing, asbestos testing, mold inspection, indoor air quality testing, and related environmental sampling services, with all lab work performed by accredited third-party laboratories.

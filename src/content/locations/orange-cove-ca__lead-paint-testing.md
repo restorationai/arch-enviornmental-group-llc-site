@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Lead Paint Testing and Inspection in Orange Cove, CA | Arch Enviornmental Group LLC"
+title: "Lead Paint Testing and Inspection in Orange Cove, CA | Arch Environmental Group LLC"
 h1: "Lead Paint Testing and Inspection in Orange Cove"
 meta_description: "Certified lead paint testing and inspection in Orange Cove, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "lead paint testing and inspection orange cove"

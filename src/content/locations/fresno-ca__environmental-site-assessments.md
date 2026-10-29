@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Site Assessments in Fresno, CA | Arch Enviornmental Group LLC"
+title: "Environmental Site Assessments in Fresno, CA | Arch Environmental Group LLC"
 h1: "Environmental Site Assessments in Fresno"
 meta_description: "Certified environmental site assessments in Fresno, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "environmental site assessments fresno"

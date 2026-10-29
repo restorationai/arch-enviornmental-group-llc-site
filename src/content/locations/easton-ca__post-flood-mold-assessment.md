@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Flood Mold Assessment in Easton, CA | Arch Enviornmental Group LLC"
+title: "Post-Flood Mold Assessment in Easton, CA | Arch Environmental Group LLC"
 h1: "Post-Flood Mold Assessment in Easton"
 meta_description: "Certified post-flood mold assessment in Easton, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "post-flood mold assessment easton"

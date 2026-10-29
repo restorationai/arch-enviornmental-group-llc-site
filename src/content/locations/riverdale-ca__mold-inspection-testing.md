@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Riverdale, CA | Arch Enviornmental Group LLC"
+title: "Mold Inspection and Testing in Riverdale, CA | Arch Environmental Group LLC"
 h1: "Mold Inspection and Testing in Riverdale"
 meta_description: "Certified mold inspection and testing in Riverdale, CA. Independent inspections with accredited lab analysis. Call (559) 296-2088."
 primary_keyword: "mold inspection and testing riverdale"
