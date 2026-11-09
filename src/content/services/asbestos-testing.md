@@ -1,8 +1,8 @@
 ---
 archetype: "service-landing"
-title: "Asbestos Testing and Inspection in Kingsburg | Arch Environmental Group LLC"
+title: "Asbestos Testing Before Removal or Remodel | Kingsburg & Fresno"
 h1: "Asbestos Testing and Inspection in Kingsburg"
-meta_description: "Certified asbestos testing and inspection in Kingsburg and surrounding areas. Independent inspections, accredited lab analysis, clear written reports. Call (559) 296-2088."
+meta_description: "Planning asbestos removal or a remodel? A Certified Asbestos Consultant samples, gets accredited lab results and writes your report. Call (559) 296-2088."
 primary_keyword: "asbestos testing and inspection kingsburg"
 secondary_keywords: ["asbestos testing near me", "asbestos inspection", "asbestos test before renovation", "popcorn ceiling asbestos test", "asbestos survey"]
 search_intent: "local_health"
