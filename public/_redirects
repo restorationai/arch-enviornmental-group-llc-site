@@ -35,7 +35,6 @@
 /service-areas/centerville-ca/voc-formaldehyde-testing/ /service-areas/visalia-ca/voc-formaldehyde-testing/ 301
 /service-areas/centerville-ca/water-quality-testing /service-areas/visalia-ca/water-quality-testing/ 301
 /service-areas/centerville-ca/water-quality-testing/ /service-areas/visalia-ca/water-quality-testing/ 301
-
 # 2026-11-14 Litigation support removed at client request (Arch does not do litigation work) -> mold inspection (DEV AGENT)
 /services/litigation-support-sampling /services/mold-inspection-testing/ 301
 /services/litigation-support-sampling/ /services/mold-inspection-testing/ 301
