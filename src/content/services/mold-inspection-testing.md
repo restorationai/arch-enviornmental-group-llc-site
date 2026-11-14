@@ -27,7 +27,7 @@ Air sampling is the diagnostic core of the service. A calibrated pump draws a me
 
 Equipment used on a professional inspection typically includes a thermal infrared camera to locate moisture behind finished surfaces, a pin-type and pinless moisture meter to confirm readings, and a hygrometer to document relative humidity throughout the structure. In the San Joaquin Valley, where summer interior humidity can spike sharply when irrigation-season air moves through older window seals, those baseline humidity readings matter.
 
-Laboratory turnaround is typically two to five business days for standard analysis; rush processing is available when a real estate transaction or a tenant dispute has a hard deadline.
+Laboratory turnaround is typically two to five business days for standard analysis; rush processing is available when a real estate transaction has a hard deadline.
 
 ## Our process
 
@@ -51,7 +51,7 @@ Insurance adjusters and industrial hygienists reviewing a claim look for: calibr
 
 ## What does mold inspection and testing cost?
 
-Typical costs for mold inspection and testing vary based on property size, the number of samples collected, and whether specialized services like thermal imaging or litigation-grade reporting are required. Most homeowners pay somewhere in the ranges below, these are industry-typical figures, not quotes from Arch Environmental Group.
+Typical costs for mold inspection and testing vary based on property size, the number of samples collected, and whether specialized services like thermal imaging are required. Most homeowners pay somewhere in the ranges below, these are industry-typical figures, not quotes from Arch Environmental Group.
 
 | Scenario | Typical industry range |
 |---|---|

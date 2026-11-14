@@ -50,7 +50,7 @@ Each sample sent to the lab adds to the cost. If an inspector recommends ten sam
 
 ### Who is doing the inspection
 
-A general home inspector who adds mold to their service list charges less than a certified industrial hygienist (CIH) or a firm that specializes exclusively in environmental assessment. For most residential situations, a leak under a sink, a musty smell in a bedroom, a qualified mold inspector with appropriate certifications is sufficient. For complex commercial properties, litigation support, or situations where results will be used in a legal or insurance dispute, a CIH-level report carries more weight.
+A general home inspector who adds mold to their service list charges less than a certified industrial hygienist (CIH) or a firm that specializes exclusively in environmental assessment. For most residential situations, a leak under a sink, a musty smell in a bedroom, a qualified mold inspector with appropriate certifications is sufficient. For complex commercial properties or situations where results will be used in an insurance dispute, a CIH-level report carries more weight.
 
 ### Post-remediation clearance testing
 
@@ -72,7 +72,7 @@ Expect to pay more, and consider it money well spent, when:
 
 - **The source is unknown.** If you smell mold but can't find it, the inspector may need thermal imaging and more extensive sampling to locate it. That takes time and equipment.
 - **The property is commercial.** Square footage, HVAC complexity, and occupancy considerations all add scope. A commercial inspection for a restaurant, school, or office building is priced differently than a residence.
-- **There's a legal or insurance angle.** If the results will be used in a dispute with a landlord, a contractor, or an insurance carrier, documentation standards are higher. Expect a more detailed written report and, potentially, expert witness availability as a separate fee.
+- **There's a legal or insurance angle.** If the results will be used in a dispute with a landlord, a contractor, or an insurance carrier, documentation standards are higher. Expect a more detailed written report.
 - **HVAC sampling is needed.** Mold in a forced-air system can distribute spores throughout an entire building. Sampling inside ductwork or at registers is an additional step that adds time and samples.
 
 ## How to Read a Quote Before You Agree

@@ -45,7 +45,7 @@ The most common failure in allergen screening is using a qualitative test, one t
 
 A second common problem is sampling only the most accessible surfaces rather than the reservoir locations where allergens actually accumulate. A wipe of a countertop tells you almost nothing about dust mite burden; a vacuum sample from the carpet in the bedroom where someone sleeps eight hours a night tells you a great deal. Sampling strategy determines whether the data is useful.
 
-Finally, chain-of-custody documentation matters when results will be used for insurance claims, legal proceedings, landlord-tenant disputes, or physician referrals. Samples without documented handling history can be challenged. Every sample collected by Arch Environmental Group is logged with collection time, location, and collector identity from the moment it leaves the building.
+Finally, chain-of-custody documentation matters when results will be used for insurance claims or physician referrals. Samples without documented handling history can be challenged. Every sample collected by Arch Environmental Group is logged with collection time, location, and collector identity from the moment it leaves the building.
 
 ## What does allergen testing cost?
 

@@ -35,7 +35,7 @@ Timeline matters here. Bacterial colonization in warm, moist building cavities c
 
 3. **Laboratory analysis.** Samples are submitted to an accredited environmental laboratory for bacterial indicator testing, typically total coliform and E. coli, along with any pathogen panels appropriate to the loss. Results are typically returned within one to three business days depending on the laboratory's standard turnaround.
 
-4. **Written assessment report.** Laboratory results are compiled into a written report that maps contamination findings to specific locations, identifies materials requiring remediation, and establishes baseline data for post-remediation verification. This report is formatted for insurance carrier review and can support a public adjuster or attorney if the claim is disputed.
+4. **Written assessment report.** Laboratory results are compiled into a written report that maps contamination findings to specific locations, identifies materials requiring remediation, and establishes baseline data for post-remediation verification. This report is formatted for insurance carrier review and can support a public adjuster if the claim is disputed.
 
 5. **Post-remediation clearance testing.** After a contractor completes sewage cleanup, a second round of sampling verifies that affected surfaces have been returned to acceptable bacterial levels. Clearance testing is the step that closes the loop, without it, neither the property owner nor the insurance carrier has objective confirmation the remediation was successful.
 
@@ -45,7 +45,7 @@ The most common failure in sewage contamination work is sampling only the obviou
 
 A second common gap is skipping post-remediation verification. Cleanup contractors may perform thorough work, but without independent clearance sampling, there is no laboratory-backed confirmation. Insurance adjusters increasingly require clearance data before closing a claim, and property managers who skip this step can face liability if occupants report illness after reoccupancy.
 
-Finally, chain of custody documentation matters. Samples collected without proper field logs, labeled containers, and laboratory submission forms cannot be used in a disputed claim or legal proceeding. Every sample collected in a professional assessment travels with a documented chain of custody from the field to the laboratory report.
+Finally, chain of custody documentation matters. Samples collected without proper field logs, labeled containers, and laboratory submission forms cannot be relied on in a disputed insurance claim. Every sample collected in a professional assessment travels with a documented chain of custody from the field to the laboratory report.
 
 ## What does sewage contamination assessment cost?
 

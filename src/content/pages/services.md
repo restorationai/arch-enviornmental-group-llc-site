@@ -10,7 +10,7 @@ priority: 4.0
 plan_hash: "21dad1fe506afce5"
 generated_at: "2026-09-04T23:32:31.574519+00:00"
 manual_override: false
-internal_links: ["/", "/services/indoor-air-quality-testing/", "/services/mold-inspection-testing/", "/services/asbestos-testing/", "/services/clearance-testing/", "/services/environmental-site-assessments/", "/services/lead-paint-testing/", "/services/water-quality-testing/", "/services/post-flood-mold-assessment/", "/services/radon-testing/", "/services/sewage-contamination-assessment/", "/services/hvac-duct-assessments/", "/services/remediation-oversight/", "/services/voc-formaldehyde-testing/", "/services/allergen-testing/", "/services/compliance-consulting/", "/services/litigation-support-sampling/"]
+internal_links: ["/", "/services/indoor-air-quality-testing/", "/services/mold-inspection-testing/", "/services/asbestos-testing/", "/services/clearance-testing/", "/services/environmental-site-assessments/", "/services/lead-paint-testing/", "/services/water-quality-testing/", "/services/post-flood-mold-assessment/", "/services/radon-testing/", "/services/sewage-contamination-assessment/", "/services/hvac-duct-assessments/", "/services/remediation-oversight/", "/services/voc-formaldehyde-testing/", "/services/allergen-testing/", "/services/compliance-consulting/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services"}]
 faq: [{"question": "Do you work with both residential and commercial properties?", "answer": "Yes. Arch Environmental Group LLC serves single-family homes, rental units, multi-family buildings, and commercial facilities across the Central Valley. The scope and logistics differ, a commercial building has different access, code, and coordination requirements than a residence, but we test and inspect both."}, {"question": "Do you perform the remediation or repairs after testing?", "answer": "No. Arch Environmental Group performs testing, inspection, and independent oversight only, we do not do the remediation or construction work ourselves. That separation is deliberate: because we have no financial stake in a remediation scope, our findings and clearance results stay objective. When work is warranted, we describe the appropriate scope in the written report, and we can perform post-remediation clearance testing after a contractor finishes to confirm the space meets standards."}, {"question": "Can your reports be used for an insurance claim?", "answer": "Often, yes. We provide the documentation adjusters commonly ask for, accredited laboratory results, chain-of-custody records, photographs, and a clear written assessment, so your carrier has a defensible basis for a decision. Whether the testing itself is a covered cost depends on your policy and the circumstances, so check with your carrier directly; we do not bill insurers on your behalf."}]
 rendered: true
@@ -46,7 +46,6 @@ When the air in a home or building is causing symptoms, or a moisture problem ma
 
 - **Remediation oversight**, independent monitoring and clearance of a remediation contractor's work, we oversee and verify, we don't perform the abatement.
 - **Environmental compliance consulting**, guidance on Cal/OSHA, EPA, and San Joaquin Valley Air Pollution Control District requirements.
-- **Litigation support and forensic sampling**, defensible sampling and reporting for disputes and claims.
 
 ---
 
