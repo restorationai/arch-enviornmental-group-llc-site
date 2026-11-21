@@ -33,6 +33,11 @@ export const brand = {
   foundedYear: "2026",
   primaryCity: "Kingsburg",
   primaryState: "CA",
+  // SERVICE REGION (Santino 2026-11-19): multi-metro clients name the region
+  // on every region-wide surface (see src/lib/region.ts); city pages and the
+  // address/NAP keep the city. Empty = one-metro client, city wording.
+  serviceRegion: "Kingsburg, Fresno & the Central Valley",
+  serviceRegionDetail: "Selma, Reedley, Dinuba, Sanger, Visalia, Hanford, Clovis, Tulare and nearby towns",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage
   // copy). addressCity/addressState = where the business PHYSICALLY is.
   // They are usually the same and often diverge (DISS: Farrell PA office,
