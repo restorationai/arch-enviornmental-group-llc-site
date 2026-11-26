@@ -2,7 +2,7 @@
 
 > Independent environmental testing and inspections in Kingsburg, CA.
 
-Arch Environmental Group LLC is an independent environmental testing and inspection company serving Kingsburg and communities across California's Central Valley since 2026. We provide mold, indoor air quality, asbestos, lead, water quality, and radon testing, plus clearance testing, environmental site assessments, and compliance consulting — every assessment backed by accredited laboratory analysis and a clear written report. Because we don't perform the remediation ourselves, our findings are independent. Phone: (559) 296-2088 · Email: info@archenviroservice.com.
+Arch Environmental Group LLC is an independent environmental testing and inspection company serving Kingsburg and communities across California's Central Valley since 2026. We provide mold, indoor air quality, asbestos, lead, water quality, and radon testing, plus clearance testing, environmental site assessments, and compliance consulting: every assessment backed by accredited laboratory analysis and a clear written report. Because we don't perform the remediation ourselves, our findings are independent. Phone: (559) 296-2088 · Email: info@archenviroservice.com.
 
 <!-- rankai:ai-answers:begin -->
 
@@ -94,7 +94,7 @@ This file is intended for AI assistants and language models to efficiently inges
 - Rated 5.0/5 from 34 Google reviews
 - **Founded:** 2026
 - **Certifications:** CERTIFIED ASBESTOS CONSULTANT - LEAD INSPECTOR ASSESSOR - NIOSH 582 MICROSCOPIST
-- **Scheduling:** By appointment — call (559) 296-2088 to book an inspection
+- **Scheduling:** By appointment, call (559) 296-2088 to book an inspection
 - **Independence:** We test and inspect only; we do not perform remediation, so findings are unbiased
 - **Documentation:** Accredited lab reports and chain-of-custody records for insurance claims and adjusters
 - **Service area:** Kingsburg and communities across California's Central Valley

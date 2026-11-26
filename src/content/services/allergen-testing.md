@@ -53,12 +53,12 @@ Typical costs for residential allergen testing depend on the size of the propert
 
 | Scenario | Typical industry range |
 |---|---|
-| Single room, targeted single-allergen panel | $150 – $300 |
-| Whole-home assessment, standard multi-allergen panel | $400 – $800 |
-| Whole-home assessment with HVAC/duct sampling | $600 – $1,100 |
-| Multi-unit residential (per unit, bulk pricing) | $250 – $500 per unit |
-| Re-test after remediation (clearance sampling) | $200 – $450 |
-| Expanded panel (mold, VOC, allergen combined) | $900 – $1,800 |
+| Single room, targeted single-allergen panel | $150 to $300 |
+| Whole-home assessment, standard multi-allergen panel | $400 to $800 |
+| Whole-home assessment with HVAC/duct sampling | $600 to $1,100 |
+| Multi-unit residential (per unit, bulk pricing) | $250 to $500 per unit |
+| Re-test after remediation (clearance sampling) | $200 to $450 |
+| Expanded panel (mold, VOC, allergen combined) | $900 to $1,800 |
 
 Every property is different, and Arch Environmental Group provides a written scope before any work begins. Standard homeowners insurance does not typically cover diagnostic environmental testing unless it is tied to a documented covered loss, but some health insurance plans and HSA accounts may reimburse allergen assessment costs when ordered in connection with a physician's evaluation; check with your carrier and your doctor.
 

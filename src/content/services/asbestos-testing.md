@@ -53,12 +53,12 @@ Typical costs for asbestos testing and inspection depend on the size of the stru
 
 | Scenario | Typical industry range |
 |---|---|
-| Single-room inspection, 1–3 samples | $300 – $600 |
-| Whole-home pre-renovation survey (older home) | $600 – $1,500 |
-| Commercial building limited survey | $1,000 – $3,500 |
-| Full commercial asbestos survey (pre-demolition) | $3,500 – $10,000+ |
-| Rush laboratory turnaround (24–48 hr) | Add $50 – $150 per sample |
-| Re-inspection or clearance air sampling after abatement | $400 – $900 |
+| Single-room inspection, 1–3 samples | $300 to $600 |
+| Whole-home pre-renovation survey (older home) | $600 to $1,500 |
+| Commercial building limited survey | $1,000 to $3,500 |
+| Full commercial asbestos survey (pre-demolition) | $3,500 to $10,000+ |
+| Rush laboratory turnaround (24–48 hr) | Add $50 to $150 per sample |
+| Re-inspection or clearance air sampling after abatement | $400 to $900 |
 
 Homeowners insurance typically does not cover the cost of a pre-renovation inspection, but it may cover testing and abatement when asbestos is discovered as a result of a covered loss, such as a fire or water damage event that disturbs suspect materials. Documenting the loss and the asbestos discovery together is critical to a successful claim.
 

@@ -57,12 +57,12 @@ Typical costs for residential and light-commercial IAQ testing depend heavily on
 
 | Scenario | Typical industry range |
 |---|---|
-| Single-contaminant screen (radon or CO), one zone | $150 – $350 |
-| Mold spore sampling, 3–5 rooms with outdoor control | $400 – $800 |
-| Full residential IAQ panel (mold, VOCs, particulates, CO/CO₂) | $800 – $1,800 |
-| Asbestos bulk sampling, pre-renovation (per sample, lab included) | $25 – $75 per sample |
-| Post-remediation air clearance testing (mold or asbestos) | $500 – $1,200 |
-| Commercial or multi-unit building assessment | $1,500 – $5,000+ |
+| Single-contaminant screen (radon or CO), one zone | $150 to $350 |
+| Mold spore sampling, 3–5 rooms with outdoor control | $400 to $800 |
+| Full residential IAQ panel (mold, VOCs, particulates, CO/CO₂) | $800 to $1,800 |
+| Asbestos bulk sampling, pre-renovation (per sample, lab included) | $25 to $75 per sample |
+| Post-remediation air clearance testing (mold or asbestos) | $500 to $1,200 |
+| Commercial or multi-unit building assessment | $1,500 to $5,000+ |
 
 ## Seasonal and regional considerations
 

@@ -57,12 +57,12 @@ Typical costs for professional radon testing vary by test type, property size, a
 
 | Scenario | Typical industry range |
 |---|---|
-| Short-term CRM test, single-family home | $150 – $300 |
-| Short-term test, multi-unit or large home (multiple devices) | $250 – $500 |
-| Long-term alpha track test, single-family home | $100 – $200 |
-| Real estate transaction test with formal report | $175 – $350 |
-| Post-mitigation confirmation test | $100 – $250 |
-| Commercial or multi-family building (per zone) | $200 – $600 |
+| Short-term CRM test, single-family home | $150 to $300 |
+| Short-term test, multi-unit or large home (multiple devices) | $250 to $500 |
+| Long-term alpha track test, single-family home | $100 to $200 |
+| Real estate transaction test with formal report | $175 to $350 |
+| Post-mitigation confirmation test | $100 to $250 |
+| Commercial or multi-family building (per zone) | $200 to $600 |
 
 Every property is different, and Arch Environmental Group provides a written scope before any work begins. Homeowners insurance typically does not cover radon testing as a standalone service; however, if radon exposure is identified in connection with a covered loss or an environmental claim, your adjuster may include testing costs, confirm with your carrier.
 

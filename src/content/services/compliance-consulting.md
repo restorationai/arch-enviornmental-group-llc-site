@@ -53,12 +53,12 @@ Typical costs depend heavily on building size, the number of suspect materials o
 
 | Scenario | Typical industry range |
 |---|---|
-| Single-building AHERA inspection (small school or daycare) | $1,800 – $4,500 |
-| Pre-renovation asbestos survey, commercial building | $900 – $3,500 |
-| OSHA personal air monitoring (per worker, per shift) | $300 – $700 per sample set |
-| Lead-based paint inspection and risk assessment | $400 – $1,200 |
-| Multi-building environmental compliance audit | $3,500 – $12,000+ |
-| Asbestos management plan (AHERA, with O&M program) | $1,200 – $3,000 |
+| Single-building AHERA inspection (small school or daycare) | $1,800 to $4,500 |
+| Pre-renovation asbestos survey, commercial building | $900 to $3,500 |
+| OSHA personal air monitoring (per worker, per shift) | $300 to $700 per sample set |
+| Lead-based paint inspection and risk assessment | $400 to $1,200 |
+| Multi-building environmental compliance audit | $3,500 to $12,000+ |
+| Asbestos management plan (AHERA, with O&M program) | $1,200 to $3,000 |
 
 These are typical industry figures, every engagement is different, and Arch Environmental Group LLC provides a written scope of work before any billable work begins. Homeowners insurance rarely covers regulatory compliance consulting directly, though it may cover related testing costs when a covered loss triggers the regulatory obligation; commercial general liability and errors-and-omissions policies are the more relevant coverage types for most compliance engagements.
 

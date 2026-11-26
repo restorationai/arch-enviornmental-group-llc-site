@@ -53,12 +53,12 @@ Assessment costs vary based on the size of the affected area, the number of samp
 
 | Scenario | Typical industry range |
 |---|---|
-| Single bathroom, localized backup | $400 – $900 |
-| Single room with subfloor involvement | $700 – $1,500 |
-| Multi-room spread, residential | $1,200 – $2,800 |
-| Post-remediation clearance testing only | $350 – $800 |
-| Commercial property, multi-zone assessment | $2,000 – $5,500 |
-| Full assessment + clearance (combined) | $1,500 – $4,000 |
+| Single bathroom, localized backup | $400 to $900 |
+| Single room with subfloor involvement | $700 to $1,500 |
+| Multi-room spread, residential | $1,200 to $2,800 |
+| Post-remediation clearance testing only | $350 to $800 |
+| Commercial property, multi-zone assessment | $2,000 to $5,500 |
+| Full assessment + clearance (combined) | $1,500 to $4,000 |
 
 Every loss is different, and Arch Environmental Group provides a written scope before any work begins. Homeowners insurance policies that include sudden and accidental sewage backup coverage typically cover assessment and testing costs as part of the documented claim, your policy language and endorsements determine what applies.
 

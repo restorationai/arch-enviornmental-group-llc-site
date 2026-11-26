@@ -55,12 +55,12 @@ Typical costs depend on property size, use history, and whether Phase II samplin
 
 | Scenario | Typical industry range |
 |---|---|
-| Phase I, small commercial parcel, straightforward history | $1,800 – $3,500 |
-| Phase I, larger or multi-tenant commercial property | $3,500 – $6,500 |
-| Phase I with prior environmental concern or complex history | $5,000 – $9,000 |
-| Phase II, limited soil sampling (3–6 borings) | $6,000 – $15,000 |
-| Phase II, groundwater monitoring wells added | $15,000 – $35,000+ |
-| Phase I + Phase II combined scope | $10,000 – $40,000+ |
+| Phase I, small commercial parcel, straightforward history | $1,800 to $3,500 |
+| Phase I, larger or multi-tenant commercial property | $3,500 to $6,500 |
+| Phase I with prior environmental concern or complex history | $5,000 to $9,000 |
+| Phase II, limited soil sampling (3–6 borings) | $6,000 to $15,000 |
+| Phase II, groundwater monitoring wells added | $15,000 to $35,000+ |
+| Phase I + Phase II combined scope | $10,000 to $40,000+ |
 
 Homeowners insurance generally does not cover the cost of an ESA, these are due-diligence expenses typically borne by the buyer, seller, or lender depending on transaction terms. If contamination is confirmed and a cleanup is required, certain remediation costs may involve insurance or regulatory cost-recovery programs; Arch Environmental Group can help you understand which programs apply.
 

@@ -55,11 +55,11 @@ Typical costs for HVAC and duct system assessments vary based on system size, th
 
 | Scenario | Typical industry range |
 |---|---|
-| Single-system residential assessment, no visible growth | $350 – $650 |
-| Single-system assessment with surface and air sampling | $600 – $1,100 |
-| Multi-system residential or small commercial | $900 – $2,000 |
-| Assessment with asbestos fiber analysis (older duct liner) | $800 – $1,500 |
-| Post-remediation clearance sampling, single system | $400 – $750 |
+| Single-system residential assessment, no visible growth | $350 to $650 |
+| Single-system assessment with surface and air sampling | $600 to $1,100 |
+| Multi-system residential or small commercial | $900 to $2,000 |
+| Assessment with asbestos fiber analysis (older duct liner) | $800 to $1,500 |
+| Post-remediation clearance sampling, single system | $400 to $750 |
 
 Every loss and system is different, and Arch Environmental Group LLC provides a written scope before any work begins so there are no surprises. Homeowners insurance may cover the assessment cost when contamination is tied to a documented covered peril, a burst pipe near the air handler, for example, but policies vary; your adjuster can confirm what your declaration page includes.
 

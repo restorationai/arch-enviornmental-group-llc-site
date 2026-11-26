@@ -55,12 +55,12 @@ Typical costs for VOC and formaldehyde testing depend on the number of samples, 
 
 | Scenario | Typical industry range |
 |---|---|
-| Single-room formaldehyde screening (1–2 samples) | $300 – $600 |
-| Whole-home formaldehyde assessment (3–6 samples) | $600 – $1,200 |
-| Full VOC panel, single room (TO-15 canister) | $500 – $900 |
-| Multi-room VOC and formaldehyde survey | $1,200 – $2,500 |
-| New construction air quality certification package | $1,500 – $3,000 |
-| Clearance re-test after mitigation (2–3 samples) | $300 – $700 |
+| Single-room formaldehyde screening (1–2 samples) | $300 to $600 |
+| Whole-home formaldehyde assessment (3–6 samples) | $600 to $1,200 |
+| Full VOC panel, single room (TO-15 canister) | $500 to $900 |
+| Multi-room VOC and formaldehyde survey | $1,200 to $2,500 |
+| New construction air quality certification package | $1,500 to $3,000 |
+| Clearance re-test after mitigation (2–3 samples) | $300 to $700 |
 
 Every property is different, sample count, building size, and analytical turnaround all affect the final number. Arch Environmental Group provides a written scope and cost estimate before any work begins. Homeowners insurance rarely covers routine air quality testing, but policies that include an indoor air quality rider or that respond to a documented sudden loss (such as a chemical spill or product failure) may provide partial coverage, review your policy declarations and ask your adjuster specifically about environmental testing endorsements.
 

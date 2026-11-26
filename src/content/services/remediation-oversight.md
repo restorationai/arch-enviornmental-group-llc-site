@@ -55,12 +55,12 @@ Typical costs for third-party remediation oversight and project management depen
 
 | Scenario | Typical range |
 |---|---|
-| Mold protocol + clearance sampling, single room | $800 – $1,800 |
-| Mold oversight, multi-room or whole-structure project | $1,500 – $4,500 |
-| Asbestos abatement monitoring, small residential project | $1,200 – $3,000 |
-| Asbestos abatement monitoring, commercial or large residential | $3,000 – $8,500 |
-| Lead abatement clearance (wipe sampling + report) | $600 – $1,500 |
-| Full project management, multi-phase remediation | $4,500 – $12,000+ |
+| Mold protocol + clearance sampling, single room | $800 to $1,800 |
+| Mold oversight, multi-room or whole-structure project | $1,500 to $4,500 |
+| Asbestos abatement monitoring, small residential project | $1,200 to $3,000 |
+| Asbestos abatement monitoring, commercial or large residential | $3,000 to $8,500 |
+| Lead abatement clearance (wipe sampling + report) | $600 to $1,500 |
+| Full project management, multi-phase remediation | $4,500 to $12,000+ |
 
 Every loss is different, and Arch Environmental Group provides a written scope of services and fee structure before any work begins. Homeowners insurance frequently covers the cost of third-party oversight when it is part of a covered remediation claim, particularly when the carrier or adjuster has requested an independent protocol or clearance report.
 

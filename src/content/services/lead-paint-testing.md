@@ -57,12 +57,12 @@ Typical costs for lead paint testing and inspection vary by scope, the number of
 
 | Scenario | Typical industry range |
 |---|---|
-| Single-room XRF inspection (pre-renovation) | $200 – $400 |
-| Whole-house lead paint inspection, XRF only | $400 – $800 |
-| Whole-house inspection with paint chip lab samples | $600 – $1,100 |
-| Full lead risk assessment (surfaces, dust, soil) | $800 – $1,500 |
-| Multi-unit residential building (per unit) | $150 – $350 per unit |
-| Re-inspection / clearance testing post-remediation | $300 – $700 |
+| Single-room XRF inspection (pre-renovation) | $200 to $400 |
+| Whole-house lead paint inspection, XRF only | $400 to $800 |
+| Whole-house inspection with paint chip lab samples | $600 to $1,100 |
+| Full lead risk assessment (surfaces, dust, soil) | $800 to $1,500 |
+| Multi-unit residential building (per unit) | $150 to $350 per unit |
+| Re-inspection / clearance testing post-remediation | $300 to $700 |
 
 Homeowners insurance generally does not cover the cost of a lead paint inspection itself, it is a testing and assessment service, not a remediation of sudden damage. If lead hazards are discovered and remediation is required, coverage depends heavily on your specific policy and the circumstances of the loss; your insurance agent is the right starting point for that conversation.
 

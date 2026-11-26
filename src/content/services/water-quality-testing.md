@@ -53,12 +53,12 @@ Typical costs depend heavily on the number of analytes tested, the sample collec
 
 | Scenario | Typical industry range |
 |---|---|
-| Basic bacteria screen (coliform / E. coli), single sample | $75 – $175 |
-| Lead and copper draw sample, single fixture | $100 – $250 |
-| Standard well water panel (bacteria, nitrates, pH, hardness, metals) | $200 – $500 |
-| Comprehensive private well panel including VOCs and pesticides | $400 – $900 |
-| Real estate transaction full-panel with written report | $350 – $750 |
-| Post-flood or post-repair well retest (two-sample protocol) | $250 – $600 |
+| Basic bacteria screen (coliform / E. coli), single sample | $75 to $175 |
+| Lead and copper draw sample, single fixture | $100 to $250 |
+| Standard well water panel (bacteria, nitrates, pH, hardness, metals) | $200 to $500 |
+| Comprehensive private well panel including VOCs and pesticides | $400 to $900 |
+| Real estate transaction full-panel with written report | $350 to $750 |
+| Post-flood or post-repair well retest (two-sample protocol) | $250 to $600 |
 
 Every property and every water source is different, and Arch Environmental Group provides a written scope before any work begins so you know exactly what is being tested and why. Homeowners insurance rarely covers routine water quality testing, but policies that include pollution or contamination riders, and some environmental liability endorsements on older properties, may cover testing costs when contamination is tied to a covered loss event; check your declarations page and ask your adjuster directly.
 

@@ -55,12 +55,12 @@ Typical costs for mold inspection and testing vary based on property size, the n
 
 | Scenario | Typical industry range |
 |---|---|
-| Single-room visual inspection + 2 air samples | $300 – $600 |
-| Whole-house inspection + 4–6 air samples | $500 – $900 |
-| Crawlspace or attic add-on sampling | $150 – $300 additional |
-| Surface / tape-lift samples (per sample) | $50 – $150 additional |
-| Rush laboratory processing | $75 – $200 additional |
-| Post-remediation clearance testing | $300 – $600 |
+| Single-room visual inspection + 2 air samples | $300 to $600 |
+| Whole-house inspection + 4–6 air samples | $500 to $900 |
+| Crawlspace or attic add-on sampling | $150 to $300 additional |
+| Surface / tape-lift samples (per sample) | $50 to $150 additional |
+| Rush laboratory processing | $75 to $200 additional |
+| Post-remediation clearance testing | $300 to $600 |
 
 Every property is different, and Arch Environmental Group provides a written scope before any work begins. Standard homeowners insurance policies often exclude mold inspection costs unless the mold is directly tied to a covered sudden water loss, your adjuster can confirm what your specific policy covers.
 

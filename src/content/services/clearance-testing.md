@@ -59,11 +59,11 @@ Typical costs depend on the contaminant type, the number of samples required, an
 
 | Scenario | Typical industry range |
 |---|---|
-| Single-room mold clearance air testing (2–3 samples) | $300 – $600 |
-| Whole-home mold clearance (5–8 samples, lab included) | $600 – $1,200 |
-| Asbestos abatement clearance, PCM (single work area) | $400 – $800 |
-| Asbestos clearance with TEM analysis | $700 – $1,500 |
-| Multi-area or commercial post-remediation verification | $1,000 – $3,000+ |
+| Single-room mold clearance air testing (2–3 samples) | $300 to $600 |
+| Whole-home mold clearance (5–8 samples, lab included) | $600 to $1,200 |
+| Asbestos abatement clearance, PCM (single work area) | $400 to $800 |
+| Asbestos clearance with TEM analysis | $700 to $1,500 |
+| Multi-area or commercial post-remediation verification | $1,000 to $3,000+ |
 
 Homeowners insurance coverage for clearance testing varies by policy and carrier. Many policies that cover mold remediation also cover the cost of third-party clearance testing as part of the remediation scope, particularly when the testing is required to close the claim. Documenting the need for independent verification early in the claim process improves the likelihood of reimbursement.
 

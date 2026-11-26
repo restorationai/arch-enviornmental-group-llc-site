@@ -57,11 +57,11 @@ Typical costs for a post-flood mold assessment depend on the size of the affecte
 
 | Scenario | Typical industry range |
 |---|---|
-| Single room, limited sampling (3–5 samples) | $300 – $600 |
-| Multi-room assessment with moisture mapping (6–10 samples) | $600 – $1,200 |
-| Full-structure assessment after major flood (10+ samples) | $1,000 – $2,500 |
-| Rush laboratory turnaround added to any scope | $150 – $400 additional |
-| Re-clearance testing after remediation | $250 – $700 |
+| Single room, limited sampling (3–5 samples) | $300 to $600 |
+| Multi-room assessment with moisture mapping (6–10 samples) | $600 to $1,200 |
+| Full-structure assessment after major flood (10+ samples) | $1,000 to $2,500 |
+| Rush laboratory turnaround added to any scope | $150 to $400 additional |
+| Re-clearance testing after remediation | $250 to $700 |
 
 Every loss is different, Arch Environmental Group provides a written scope before work begins so there are no surprises. Homeowners insurance often covers mold assessment costs when the mold growth is a direct result of a covered peril such as a burst pipe or storm flooding; coverage for assessment triggered by long-term neglect or pre-existing conditions is typically excluded, so reviewing your policy language before the adjuster visit is worth doing.
 
