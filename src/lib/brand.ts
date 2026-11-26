@@ -68,6 +68,8 @@ export const brand = {
   trustBadges: ["Licensed & Insured", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://maps.google.com/maps?cid=9272624602537153844", "https://www.dnb.com/business-directory/company-profiles.arch_environmental_group_inc.e04473bb7ca4e77b95cfa7cee4f361c9.html", "https://www.glassdoor.com/Reviews/Arch-Environmental-Group--Anonymous-Employee-Former-Employee-Reviews-EI_IE483211.0,24_KO25,60.htm", "https://homeguide.com/ca/hanford/water-damage-restoration/arch-enviornmental-group-llc-h6MfKMIQ8"] as string[],
+  credentials: [{"name": "Certified Asbestos Consultant - Lead Inspector Assessor - Niosh 582 Microscopist", "kind": "certification", "holder": "company"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentialsLine: [{"text": "Certified Asbestos Consultant - Lead Inspector Assessor - Niosh 582 Microscopist"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
